@@ -33,8 +33,6 @@ print(len(Tem2))
 if len(Count1)>len(Count2):
     TT0 = Tem1[0:len(Tem2)]
     TT1 = Tem2[0:len(Tem2)]
-    #TT0 = gaussian_filter1d(TT0, sigma=5)
-    #TT1 = gaussian_filter1d(TT1, sigma=5)
     Count = Count2
 
 else:
