@@ -8,10 +8,7 @@ from scipy.interpolate import make_interp_spline
 import os
 
 #初始化全局变量
-Counts=[]
-Counts_out=[]
-Temps=[]
-Temps_out=[]
+
 
 #求二位数组的第二维度长度最小值
 def find_min_len_of_sec_dementia( Temps ):
@@ -21,6 +18,7 @@ def find_min_len_of_sec_dementia( Temps ):
     min_lenvalue = min(lens_temp) # 求列表最小值
     max_lenvalue = max(lens_temp) # 求列表最大值
     return min_lenvalue
+
 #寻找txt文件
 def find_txt_file_in_now_dir( filename ):
     datanames = os.listdir()
@@ -49,11 +47,14 @@ def extract_txt_info(filename,Counts,Temps):
 
 
 if __name__ == '__main__':
-
+    Counts=[]
+    Counts_out=[]
+    Temps=[]
+    Temps_out=[]
     filename=[]
     find_txt_file_in_now_dir(filename)
     extract_txt_info(filename,Counts,Temps)
-    min_lenvalue=find_min_len_of_sec_dementia( Temps )
+    min_lenvalue=find_min_len_of_sec_dementia(Temps)
 
     #画图
     for i in range(len(Temps)):
