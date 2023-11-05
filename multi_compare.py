@@ -1,6 +1,6 @@
 """ 
 author:jinchao
-info: used for muilt file in 
+info: used for muilt file to detect temp
  """
 import matplotlib.pyplot as plt
 from scipy.ndimage import gaussian_filter1d
