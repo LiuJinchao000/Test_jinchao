@@ -47,6 +47,8 @@ def extract_txt_info(filename,Counts,Temps):
 
 
 if __name__ == '__main__':
+    aa =[1,2,3]
+    aa =1
     Counts=[]
     Counts_out=[]
     Temps=[]
