@@ -1,5 +1,0 @@
-github
-new
-tag
-
-main
