@@ -43,20 +43,6 @@ def extract_txt_info(filename,Counts,Temps):
                     counts.append(int(count/19+1))
             Counts.append(counts)
             Temps.append(temp)
-def bar_fig(Temps,filename):
-    num_list = [1.5,0.6,7.8,6]
-    name_list = ['Monday','Tuesday','Friday','Sunday']
-    mean_temp=[]
-    for i in range(len(Temps)):
-        mean_temp.append(mean(Temps[i][-10:]))
-
-        #print(Temps[i][-10:])
-        print(mean_temp)
-
-    plt.barh(range(len(Temps)), mean_temp,tick_label=filename)
-    #plt.xlabel("item")
-    #plt.ylabel("chip's temperature")
-    plt.show()
 
 def bar_with_date(Temps,filename):
     plt.rcParams['font.sans-serif'] = ['SimHei'] # 显示中文
@@ -79,7 +65,11 @@ def bar_with_date(Temps,filename):
     plt.title('温度稳态结果')
     plt.legend()
     plt.show()
+
+
 def process_fig(Temps,filename,Counts):
+    Counts_out=[]
+    Temps_out=[]
     min_lenvalue=find_min_len_of_sec_dementia(Temps)
     for i in range(len(Temps)):
         Temps_out=Temps[len(Temps)-i-1][0:min_lenvalue]
@@ -88,18 +78,16 @@ def process_fig(Temps,filename,Counts):
     plt.legend()
     plt.show()
 
+
 def run():
-    aa =[1,2,3]
-    aa =1
     Counts=[]
-    Counts_out=[]
     Temps=[]
-    Temps_out=[]
     filename=[]
     find_txt_file_in_now_dir(filename)
     extract_txt_info(filename,Counts,Temps)
     process_fig(Temps,filename,Counts)
-    #bar_fig(Temps,filename)
     bar_with_date(Temps,filename)
+
+    
 if __name__ == '__main__':
     run()
