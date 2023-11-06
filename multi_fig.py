@@ -59,7 +59,7 @@ def bar_with_date(Temps,filename):
     plt.xlabel('测试项目编号')
     plt.ylabel('温度/℃')
     plt.title('温度稳态结果')
-    plt.legend()
+    #plt.legend()
     plt.show()
 
 
