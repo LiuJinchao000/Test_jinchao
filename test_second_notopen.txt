@@ -9651,3 +9651,2302 @@ cpu内存使用率:10.5%
 npu主频: 1000000000%
 cpu6主频: 2304000%
 时间: 2023年 09月 21日 星期四 10:58:40 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  37:46 ./detectd
+linaro    109553 31.0  4.0 748848 151816 pts/0   RLl  09:29  27:43 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:44 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:05 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]
+root           9  0.0  0.0      0     0 ?        S    9月19   0:00 [rcu_tasks_rude_]%
+cpu内存使用率:10.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         271         234          30        3154        3320
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 10:58:50 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  37:50 ./detectd
+linaro    109553 31.0  4.0 748848 151816 pts/0   RLl  09:29  27:46 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:44 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:05 [kworker/u17:1-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]
+root           9  0.0  0.0      0     0 ?        S    9月19   0:00 [rcu_tasks_rude_]%
+cpu内存使用率:8.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         272         233          30        3154        3319
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 10:59:01 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  37:54 ./detectd
+linaro    109553 31.0  4.0 748848 151816 pts/0   SLl  09:29  27:49 ./replayd
+root      139626  1.7  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:45 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:05 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:9.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         272         233          30        3154        3319
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 10:59:11 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  37:59 ./detectd
+linaro    109553 31.1  4.0 748848 151816 pts/0   SLl  09:29  27:53 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:45 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  1.4  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:05 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:9.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         232          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 10:59:22 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  38:03 ./detectd
+linaro    109553 31.0  4.0 748848 151816 pts/0   RLl  09:29  27:56 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:45 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.8  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:05 [kworker/u17:1-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:8.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         232          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 10:59:32 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  38:07 ./detectd
+linaro    109553 31.0  4.0 748848 151816 pts/0   SLl  09:29  27:59 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:45 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.6  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:05 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:10.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         232          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 10:59:43 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  38:12 ./detectd
+linaro    109553 31.0  4.0 748848 151816 pts/0   SLl  09:29  28:02 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:45 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.4  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:05 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:10.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         272         233          30        3154        3319
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 10:59:53 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  38:16 ./detectd
+linaro    109553 31.0  4.0 748848 151816 pts/0   RLl  09:29  28:05 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:46 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.4  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:05 [kworker/u17:1-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:9.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         272         233          30        3154        3319
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:00:04 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  38:20 ./detectd
+linaro    109553 31.0  4.0 748848 151816 pts/0   RLl  09:29  28:08 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:46 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:9.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         232          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:00:14 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  38:25 ./detectd
+linaro    109553 31.0  4.0 748848 151816 pts/0   RLl  09:29  28:11 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:46 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:10.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         232          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:00:25 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  38:29 ./detectd
+linaro    109553 31.0  4.0 748848 151816 pts/0   SLl  09:29  28:14 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:46 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:10.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         232          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:00:35 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  38:34 ./detectd
+linaro    109553 31.0  4.0 748848 151816 pts/0   SLl  09:29  28:18 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:46 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         232          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:00:46 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  38:38 ./detectd
+linaro    109553 31.0  4.0 748848 151816 pts/0   SLl  09:29  28:21 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:47 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:9.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         272         233          30        3154        3319
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:00:56 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  38:42 ./detectd
+linaro    109553 31.0  4.0 748848 151816 pts/0   SLl  09:29  28:24 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:47 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      139626  0.1  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:14%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         272         233          30        3154        3319
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:01:07 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  38:47 ./detectd
+linaro    109553 31.0  4.0 748848 151816 pts/0   SLl  09:29  28:27 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:47 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      139626  0.1  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         271         233          30        3154        3319
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:01:17 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  38:52 ./detectd
+linaro    109553 31.0  4.0 750128 153092 pts/0   RLl  09:29  28:30 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:47 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      139626  0.1  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]
+root           9  0.0  0.0      0     0 ?        S    9月19   0:00 [rcu_tasks_rude_]%
+cpu内存使用率:15.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         232          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:01:28 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  38:57 ./detectd
+linaro    109553 31.1  4.0 750128 153096 pts/0   SLl  09:29  28:36 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:48 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        R<   10:29   0:06 [kworker/u17:1+csf_scheduler_gpu_idle_]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      139626  0.1  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]
+root           9  0.0  0.0      0     0 ?        S    9月19   0:00 [rcu_tasks_rude_]%
+cpu内存使用率:8.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         232          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:01:38 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  39:01 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  28:39 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:48 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      139626  0.1  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]
+root           9  0.0  0.0      0     0 ?        S    9月19   0:00 [rcu_tasks_rude_]%
+cpu内存使用率:11.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         232          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:01:49 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  39:06 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   RLl  09:29  28:43 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:48 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      139626  0.1  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]
+root           9  0.0  0.0      0     0 ?        S    9月19   0:00 [rcu_tasks_rude_]%
+cpu内存使用率:8.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         272         232          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:01:59 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  39:10 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   RLl  09:29  28:46 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:48 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      139626  0.1  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]
+root           9  0.0  0.0      0     0 ?        S    9月19   0:00 [rcu_tasks_rude_]%
+cpu内存使用率:10.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         232          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:02:10 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  39:15 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   RLl  09:29  28:49 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:48 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      139626  0.1  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-rknpu_power_off_wq]%
+cpu内存使用率:13.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         232          30        3154        3318
+交换：          0           0           0%
+温度: 40692%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:02:20 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  39:19 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  28:52 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:49 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      139626  0.1  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         232          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:02:31 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  39:24 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   RLl  09:29  28:56 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:49 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      139626  0.1  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:10.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:02:41 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  39:28 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  28:59 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:49 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      139626  0.1  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:15.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:02:52 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  39:33 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  29:03 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:49 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      139626  0.1  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:8.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:03:02 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  39:37 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  29:06 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:49 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      139626  0.1  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-kbase_pm_poweroff_wait]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]%
+cpu内存使用率:11.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:03:13 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  39:41 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   RLl  09:29  29:09 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:50 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]%
+cpu内存使用率:12.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:03:23 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  39:46 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  29:13 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:50 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:00 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]%
+cpu内存使用率:8.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:03:34 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  39:50 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   RLl  09:29  29:16 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:50 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:12.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         275         230          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:03:44 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  39:55 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  29:19 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:50 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:9.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         275         230          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:03:55 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  39:59 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  29:22 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:50 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-kbase_pm_poweroff_wait]
+root      131837  0.2  0.0      0     0 ?        I<   10:35   0:03 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:04:05 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  40:03 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  29:25 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:51 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:04:16 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  40:08 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   RLl  09:29  29:29 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:51 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-kbase_pm_poweroff_wait]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:04:26 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  40:12 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  29:32 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:51 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-kbase_pm_poweroff_wait]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:10.4%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:04:37 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  40:17 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  29:35 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:51 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+linaro    141468  1.0  0.0   9676  2948 pts/3    R+   11:04   0:00 ps aux
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-kbase_pm_poweroff_wait]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]%
+cpu内存使用率:8.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:04:47 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  40:21 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   RLl  09:29  29:39 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:52 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:12%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         232          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:04:58 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  40:26 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  29:42 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:52 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:9.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:05:08 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  40:30 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   RLl  09:29  29:45 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:52 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-kbase_pm_poweroff_wait]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:12.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:05:19 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  40:34 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  29:49 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:52 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:8.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:05:29 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  40:39 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  29:52 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:52 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:10.4%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         275         230          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:05:40 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  40:44 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  29:55 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:52 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:00 [kworker/u17:0-kbase_pm_poweroff_wait]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:00 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:05:50 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  40:48 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  29:59 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:53 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:10.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:06:01 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  40:52 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   RLl  09:29  30:02 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:53 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      129944  0.3  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-kbase_pm_poweroff_wait]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:06:11 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  40:56 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  30:05 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:53 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-kbase_pm_poweroff_wait]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:9.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:06:22 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  41:01 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  30:08 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:53 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:12.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         232          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:06:32 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  41:05 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   RLl  09:29  30:11 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:53 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      135120  0.1  0.0      0     0 ?        I<   10:45   0:01 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        D    08:56   0:01 [kworker/u16:1+rknpu_power_off_wq]%
+cpu内存使用率:12.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:06:43 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  41:10 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  30:14 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:53 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]
+root           9  0.0  0.0      0     0 ?        S    9月19   0:00 [rcu_tasks_rude_]%
+cpu内存使用率:9.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:06:53 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  41:14 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   SLl  09:29  30:18 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:53 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-kbase_pm_poweroff_wait]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]
+root           9  0.0  0.0      0     0 ?        S    9月19   0:00 [rcu_tasks_rude_]%
+cpu内存使用率:9.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:07:04 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  41:19 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   RLl  09:29  30:21 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:54 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-kbase_pm_poweroff_wait]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]
+root           9  0.0  0.0      0     0 ?        S    9月19   0:00 [rcu_tasks_rude_]%
+cpu内存使用率:7.4%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:07:14 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  41:23 ./detectd
+linaro    109553 31.1  4.0 750128 153128 pts/0   RLl  09:29  30:24 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:54 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]
+root           9  0.0  0.0      0     0 ?        S    9月19   0:00 [rcu_tasks_rude_]%
+cpu内存使用率:8.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:07:24 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  41:28 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  30:27 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:54 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]
+root           9  0.0  0.0      0     0 ?        S    9月19   0:00 [rcu_tasks_rude_]%
+cpu内存使用率:11.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:07:35 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  41:32 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  30:30 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:54 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]
+root           9  0.0  0.0      0     0 ?        S    9月19   0:00 [rcu_tasks_rude_]%
+cpu内存使用率:9.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:07:45 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  41:36 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  30:33 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:54 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-kbase_pm_poweroff_wait]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]
+root           9  0.0  0.0      0     0 ?        S    9月19   0:00 [rcu_tasks_rude_]%
+cpu内存使用率:11.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:07:56 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  41:40 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  30:36 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:54 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:9.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 40692%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:08:06 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  41:45 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  30:39 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:54 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         275         230          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:08:17 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  41:49 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  30:43 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:54 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:08:27 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  41:54 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  30:46 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:55 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-kbase_pm_poweroff_wait]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:14.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:08:38 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  41:58 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  30:49 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:55 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:8.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:08:48 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  42:02 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   SLl  09:29  30:52 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:55 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      139626  0.2  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-csf_scheduler_wq]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:10.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         275         230          30        3154        3316
+交换：          0           0           0%
+温度: 40692%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:08:59 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  42:06 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   SLl  09:29  30:55 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:55 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:8.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:09:09 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  42:11 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   RLl  09:29  30:58 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:55 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:01 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         275         230          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:09:20 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  42:15 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   RLl  09:29  31:01 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:55 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         275         230          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:09:30 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  42:19 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   SLl  09:29  31:04 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:56 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:12.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:09:41 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  42:24 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   RLl  09:29  31:08 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:56 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         275         230          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:09:51 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  42:29 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   SLl  09:29  31:11 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:56 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:10:02 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  42:33 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   RLl  09:29  31:14 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:56 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:10.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:10:12 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  42:37 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   SLl  09:29  31:17 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:56 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:10:23 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  42:42 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   SLl  09:29  31:20 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:56 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:10.4%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:10:33 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  42:47 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   RLl  09:29  31:25 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:57 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:16.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3317
+交换：          0           0           0%
+温度: 42538%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:10:44 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  42:52 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  31:29 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:57 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:10.4%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         272         232          30        3154        3319
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:10:54 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  42:56 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  31:33 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:57 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:10.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:11:05 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  43:01 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   RLl  09:29  31:36 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:57 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:13.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:11:15 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  43:05 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  31:39 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:58 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:12.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:11:26 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  43:10 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  31:43 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:58 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:12.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:11:36 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  43:14 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  31:46 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:58 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      142895  0.1  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]%
+cpu内存使用率:13.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:11:47 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  43:18 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  31:49 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:58 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      142895  0.1  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]%
+cpu内存使用率:11.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:11:57 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  43:23 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  31:53 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:58 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      142895  0.1  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]%
+cpu内存使用率:14%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:12:08 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  43:27 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  31:56 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:59 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]%
+cpu内存使用率:7.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 40692%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:12:18 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  43:32 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   RLl  09:29  31:59 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:59 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]%
+cpu内存使用率:9.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         232          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:12:29 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  43:36 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   RLl  09:29  32:03 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:59 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      142895  0.3  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]%
+cpu内存使用率:11.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:12:39 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  43:41 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   RLl  09:29  32:06 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:59 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      142895  0.3  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]%
+cpu内存使用率:8.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:12:49 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  43:46 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  32:09 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  47:59 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      142895  0.3  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]%
+cpu内存使用率:3.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3317
+交换：          0           0           0%
+温度: 40692%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:13:00 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  43:50 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   RLl  09:29  32:12 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:00 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      144156  0.3  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      142895  0.3  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]%
+cpu内存使用率:9.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:13:10 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  43:54 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   RLl  09:29  32:16 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:00 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      142895  0.3  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      144156  0.2  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]%
+cpu内存使用率:11%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:13:21 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  43:59 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  32:19 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:00 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      142895  0.3  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]%
+cpu内存使用率:8.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:13:31 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  44:03 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  32:22 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:00 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]%
+cpu内存使用率:8.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:13:42 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  44:07 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  32:25 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:01 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]%
+cpu内存使用率:11.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:13:52 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  44:12 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   RLl  09:29  32:29 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:01 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      129944  0.2  0.0      0     0 ?        I<   10:29   0:06 [kworker/u17:1-csf_scheduler_wq]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]%
+cpu内存使用率:8.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:14:03 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  44:16 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  32:32 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:01 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]%
+cpu内存使用率:10.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 40692%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:14:13 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  44:20 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  32:35 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:01 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:02 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]%
+cpu内存使用率:10.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:14:24 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  44:25 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   RLl  09:29  32:39 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:01 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      144156  0.2  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]%
+cpu内存使用率:8.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:14:34 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  44:29 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   RLl  09:29  32:42 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:01 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      144156  0.2  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:04 [kworker/1:2H-events_highpri]%
+cpu内存使用率:11.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:14:45 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  44:34 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   RLl  09:29  32:45 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:02 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:14:55 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  44:38 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  32:49 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:02 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         275         229          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:15:06 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  44:43 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  32:52 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:02 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      144156  0.2  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:11.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:15:16 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  44:47 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  32:55 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:02 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      144156  0.2  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:10.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:15:27 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  44:51 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  32:58 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:02 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      144156  0.2  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:11.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:15:37 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  44:56 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  33:01 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:03 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      144156  0.2  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:9.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         231          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:15:48 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  45:00 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  33:04 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:03 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      144156  0.2  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      142895  0.1  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:8.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:15:58 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  45:05 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  33:08 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:03 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      142895  0.1  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_gpu_idle_]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:12.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         275         230          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:16:09 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  45:09 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  33:11 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:03 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_wq]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:11.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         275         229          30        3154        3316
+交换：          0           0           0%
+温度: 40692%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:16:19 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  45:14 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  33:14 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:03 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:00 [kworker/u17:2-csf_scheduler_wq]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:11.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         275         229          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:16:30 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  45:18 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  33:17 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:03 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        D<   11:09   0:00 [kworker/u17:2+csf_scheduler_wq]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:00 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:13.4%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         275         229          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:16:40 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  45:23 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  33:20 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:04 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-csf_scheduler_wq]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:11.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:16:51 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  45:27 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  33:23 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:04 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-csf_scheduler_wq]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:9.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:17:01 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  45:31 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  33:26 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:04 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-csf_scheduler_wq]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:12.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:17:12 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  45:36 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  33:29 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:04 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:10.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 40692%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:17:22 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  45:40 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  33:33 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:04 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-csf_scheduler_wq]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:10.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:17:33 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  45:45 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  33:36 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:04 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-csf_scheduler_wq]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:10.4%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         230          30        3154        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:17:43 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  45:49 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  33:39 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:05 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      136898  0.1  0.0      0     0 ?        I<   10:50   0:01 [kworker/u19:1-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]%
+cpu内存使用率:9.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3154        3318
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:17:54 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  45:53 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   RLl  09:29  33:42 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:05 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:9.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         230          30        3155        3317
+交换：          0           0           0%
+温度: 40692%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:18:04 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  45:57 ./detectd
+linaro    109553 31.1  4.0 750128 153136 pts/0   SLl  09:29  33:45 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:05 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3155        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:18:15 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  46:02 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   SLl  09:29  33:48 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:05 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:9.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3155        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:18:25 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  46:06 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   RLl  09:29  33:51 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:05 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         275         229          30        3155        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:18:36 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   D<Ll 09:29  46:10 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   SLl  09:29  33:54 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:05 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         273         231          30        3155        3318
+交换：          0           0           0%
+温度: 40692%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:18:46 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  46:15 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   SLl  09:29  33:58 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:06 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:10.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         275         229          30        3155        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:18:57 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  46:19 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   SLl  09:29  34:01 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:06 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:9.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         229          30        3155        3316
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:19:07 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   S<Ll 09:29  46:24 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   SLl  09:29  34:04 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:06 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:11.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         229          30        3155        3316
+交换：          0           0           0%
+温度: 40692%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:19:18 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  46:28 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   SLl  09:29  34:07 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:06 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:9.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3155        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:19:28 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  46:33 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   RLl  09:29  34:11 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:06 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-kbase_pm_poweroff_wait]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:8.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         272         231          30        3155        3318
+交换：          0           0           0%
+温度: 40692%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:19:39 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+linaro    109555 42.3  4.3 707816 164668 pts/0   R<Ll 09:29  46:37 ./detectd
+linaro    109553 31.0  4.0 750128 153136 pts/0   SLl  09:29  34:14 ./replayd
+root         408  1.6  0.4 1048188 17700 ?       Sl   9月19  48:07 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root      139626  0.3  0.0      0     0 ?        I<   10:59   0:03 [kworker/u17:0-csf_scheduler_wq]
+root         200  0.2  0.0      0     0 ?        S    9月19   8:14 [irq/34-rga3_cor]
+root      142895  0.2  0.0      0     0 ?        I<   11:09   0:01 [kworker/u17:2-csf_scheduler_wq]
+root      144156  0.1  0.0      0     0 ?        I<   11:12   0:00 [kworker/u19:2-mali_kbase_csf_sync_upd]
+root      140428  0.1  0.0      0     0 ?        I<   11:01   0:01 [kworker/u19:0-mali_kbase_csf_sync_upd]
+root      117025  0.1  0.0      0     0 ?        I<   09:52   0:05 [kworker/1:2H-events_highpri]
+root       98914  0.0  0.0      0     0 ?        I    08:56   0:01 [kworker/u16:1-devfreq_wq]%
+cpu内存使用率:16.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         274         230          30        3155        3317
+交换：          0           0           0%
+温度: 41615%
+npu主频: 1000000000%
+cpu6主频: 2304000%
+时间: 2023年 09月 21日 星期四 11:19:49 UTC%

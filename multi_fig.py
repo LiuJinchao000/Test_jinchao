@@ -80,7 +80,7 @@ def bar_with_date_sort(Temps,filename):
        
     plt.xlabel('测试项目编号')
     plt.ylabel('温度/℃')
-    plt.title('温度稳态结果图（取稳态一段时间的平均值）')
+    plt.title('温度稳态结果图./')
     plt.legend()
     plt.show()
 
