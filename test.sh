@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 echo "Start"
 scp ljc:/home/linaro/test* ./
-python ./multi_compare.py
+python ./multi_fig.py
 echo "End"
 
 
