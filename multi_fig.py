@@ -1,9 +1,7 @@
 """ 
-used for muilt file to bar temp
+used for muilt file to temperature fig
  """
 import matplotlib.pyplot as plt
-import matplotlib as mpl
-
 from scipy.ndimage import gaussian_filter1d
 from scipy.interpolate import make_interp_spline
 import os
@@ -24,7 +22,7 @@ def find_txt_file_in_now_dir( filename ):
     for dataname in datanames:
         if os.path.splitext(dataname)[1] == '.txt':#目录下包含.txt的文件
             filename.append(dataname)    
-    print(filename)
+    #print(filename)
 
 
 def extract_txt_info(filename,Counts,Temps):
@@ -44,22 +42,19 @@ def extract_txt_info(filename,Counts,Temps):
             Counts.append(counts)
             Temps.append(temp)
 
+
 def bar_with_date(Temps,filename):
     plt.rcParams['font.sans-serif'] = ['SimHei'] # 显示中文
-    item_name=[]
     mean_temp=[]
     for i in range(len(Temps)):
         mean_temp.append(mean(Temps[i][-10:]))
-        #item_name.append(str(i)+":"+filename[i])
         print(str(i)+":"+filename[i])
         filename[i]=str(i)
-    #print(item_name)
     width = 0.5  # 柱体宽度
     plt.bar(filename, mean_temp, width,label='temp')
     for a,b,i in zip(filename,mean_temp,range(len(filename))): # zip 函数
         plt.text(a,b+0.13,"%.2f"%mean_temp[i],ha='center') # plt.text 函数
-        
-    #plt.ylim(3,4)
+       
     plt.xlabel('测试项目编号')
     plt.ylabel('温度/℃')
     plt.title('温度稳态结果')
