@@ -12,6 +12,7 @@ def find_min_len_of_sec_dementia( Temps ):
     for i in range(len(Temps)):
         lens_temp.append(len(Temps[len(Temps)-i-1]))
     min_lenvalue = min(lens_temp) # 求列表最小值
+    print(min_lenvalue)
     max_lenvalue = max(lens_temp) # 求列表最大值
     return min_lenvalue
 
