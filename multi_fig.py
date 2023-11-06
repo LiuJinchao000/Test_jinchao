@@ -44,6 +44,7 @@ def extract_txt_info(filename,Temps):
 def bar_with_date(Temps,filename):
     plt.rcParams['font.sans-serif'] = ['SimHei'] # 显示中文
     mean_temp=[]
+    print("---------------")
     for i in range(len(Temps)):
         if len(Temps[i])<10:
             mean_temp.append(Temps[i][-1])
@@ -51,6 +52,7 @@ def bar_with_date(Temps,filename):
             mean_temp.append(mean(Temps[i][-60:]))
         print("item"+str(i)+":"+filename[i])
         filename[i]=str(i)
+    print("---------------")
     width = 0.5  # 柱体宽度
     plt.bar(filename, mean_temp, width,label='temp')
     for a,b,i in zip(filename,mean_temp,range(len(filename))): # zip 函数
@@ -100,7 +102,7 @@ def run():
     filename=[]
     find_txt_file_in_now_dir(filename)
     extract_txt_info(filename,Temps)
-    process_fig(Temps,filename)
+    #process_fig(Temps,filename)
     bar_with_date(Temps,filename)
 
     
