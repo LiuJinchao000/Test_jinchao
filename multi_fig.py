@@ -7,6 +7,7 @@ from scipy.interpolate import make_interp_spline
 import os
 from numpy import mean
 
+
 def find_min_len_of_sec_dementia( Temps ):
     lens_temp=[]
     for i in range(len(Temps)):
