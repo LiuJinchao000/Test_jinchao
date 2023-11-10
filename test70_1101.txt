@@ -1,0 +1,2452 @@
+2023年 09月 21日 星期四 09:30:00 UTC
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.3  7.4 916000 279032 pts/0   R<Ll+ 05:09  60:53 ./_modeld
+root         862 21.7  5.8 830824 220840 pts/0   S<Ll+ 05:09  56:39 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  28:24 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  22:28 ./camerad
+root         432  2.0  0.4 1048188 17692 ?       Sl   05:09   5:22 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16492 ?        Ssl  05:09   3:12 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:46 ./boardd
+root         257  0.8  0.2  73916  8268 ?        Ss   05:09   2:05 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:52 selfdrive.locationd.calibrationd
+root     1153145  0.7  0.0      0     0 ?        I<   09:20   0:04 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:23.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         622        2357         193         679        2806
+交换：          0           0           0%
+温度: 85000%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:30:00 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.3  7.4 916000 279032 pts/0   D<Ll+ 05:09  61:08 ./_modeld
+root         862 21.7  5.9 833824 223472 pts/0   S<Ll+ 05:09  56:53 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  28:31 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  22:33 ./camerad
+root         432  2.0  0.4 1048188 17692 ?       Sl   05:09   5:24 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:13 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:47 ./boardd
+root         257  0.8  0.2  73916  9480 ?        Ss   05:08   2:06 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:53 selfdrive.locationd.calibrationd
+root     1153145  0.6  0.0      0     0 ?        I<   09:19   0:04 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:14.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         617        2359         193         682        2811
+交换：          0           0           0%
+温度: 85000%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:30:22 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.3  7.4 916000 279032 pts/0   S<Ll+ 05:09  61:22 ./_modeld
+root         862 21.7  5.8 830824 220840 pts/0   S<Ll+ 05:09  57:07 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  28:38 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  22:38 ./camerad
+root         432  2.0  0.4 1048188 17692 ?       Sl   05:09   5:27 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:14 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:47 ./boardd
+root         257  0.8  0.2  73916 10592 ?        Ss   05:08   2:06 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:53 selfdrive.locationd.calibrationd
+root     1153145  0.7  0.0      0     0 ?        I<   09:19   0:05 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:16.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         615        2360         193         683        2814
+交换：          0           0           0%
+温度: 85000%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:31:23 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.3  7.4 916000 279032 pts/0   D<Ll+ 05:09  61:36 ./_modeld
+root         862 21.7  5.9 833824 223472 pts/0   S<Ll+ 05:09  57:21 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  28:44 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  22:44 ./camerad
+root         432  2.0  0.4 1048188 17692 ?       Sl   05:09   5:29 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:14 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:48 ./boardd
+root         257  0.8  0.3  73916 11684 ?        Ss   05:08   2:07 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:53 selfdrive.locationd.calibrationd
+root     1153145  0.7  0.0      0     0 ?        I<   09:19   0:05 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:15.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         617        2356         193         685        2811
+交换：          0           0           0%
+温度: 85888%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:32:23 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.3  7.4 916000 279032 pts/0   S<Ll+ 05:09  61:51 ./_modeld
+root         862 21.7  5.8 830824 220840 pts/0   S<Ll+ 05:09  57:35 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  28:51 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  22:49 ./camerad
+root         432  2.0  0.4 1048188 17692 ?       Sl   05:09   5:31 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:15 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:49 ./boardd
+root         257  0.8  0.3  73916 12792 ?        Ss   05:08   2:07 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:54 selfdrive.locationd.calibrationd
+root     1153145  0.7  0.0      0     0 ?        I<   09:19   0:06 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:17%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         614        2358         193         686        2814
+交换：          0           0           0%
+温度: 85000%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:33:24 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  62:05 ./_modeld
+root         862 21.7  5.8 830824 220840 pts/0   S<Ll+ 05:09  57:49 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  28:57 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  22:55 ./camerad
+root         432  2.0  0.4 1048188 17692 ?       Sl   05:09   5:33 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:16 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:49 ./boardd
+root         257  0.8  0.3  73916 13748 ?        Ss   05:08   2:07 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:54 selfdrive.locationd.calibrationd
+root     1219628  0.6  0.0      0     0 ?        I    09:34   0:00 [kworker/u18:3-events_freezable_power_]%
+cpu内存使用率:15.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         615        2356         193         687        2814
+交换：          0           0           0%
+温度: 85888%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:34:24 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  62:19 ./_modeld
+root         862 21.7  5.9 833824 223736 pts/0   R<Ll+ 05:09  58:03 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  29:04 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  23:00 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:35 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:17 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:50 ./boardd
+root         257  0.8  0.3  73916 14832 ?        Ss   05:08   2:08 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:55 selfdrive.locationd.calibrationd
+root     1153145  0.6  0.0      0     0 ?        I<   09:19   0:06 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:14.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         617        2353         193         688        2811
+交换：          0           0           0%
+温度: 86777%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:35:25 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  62:33 ./_modeld
+root         862 21.8  5.8 830824 221104 pts/0   S<Ll+ 05:09  58:17 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  29:11 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  23:05 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:38 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:18 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:51 ./boardd
+root         257  0.8  0.4  82108 18260 ?        Ss   05:08   2:08 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:55 selfdrive.locationd.calibrationd
+root     1219628  0.6  0.0      0     0 ?        I    09:34   0:00 [kworker/u18:3-events_freezable_power_]%
+cpu内存使用率:17.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         615        2352         193         691        2813
+交换：          0           0           0%
+温度: 86777%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:36:25 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   D<Ll+ 05:09  62:48 ./_modeld
+root         862 21.8  5.9 833824 223736 pts/0   S<Ll+ 05:09  58:30 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  29:17 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  23:11 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:40 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:19 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:51 ./boardd
+root         257  0.8  0.5  82108 19688 ?        Ss   05:08   2:09 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:55 selfdrive.locationd.calibrationd
+root     1219628  0.5  0.0      0     0 ?        I    09:34   0:01 [kworker/u18:3-events_unbound]%
+cpu内存使用率:14%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         617        2350         193         692        2812
+交换：          0           0           0%
+温度: 86777%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:37:26 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  63:02 ./_modeld
+root         862 21.8  5.8 830824 221104 pts/0   S<Ll+ 05:09  58:44 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  29:24 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  23:16 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:41 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:20 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:52 ./boardd
+root         257  0.8  0.5  82108 20700 ?        Ss   05:08   2:10 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:56 selfdrive.locationd.calibrationd
+root     1153145  0.5  0.0      0     0 ?        I<   09:19   0:06 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:16.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         616        2350         193         693        2813
+交换：          0           0           0%
+温度: 87666%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:38:26 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   D<Ll+ 05:09  63:17 ./_modeld
+root         862 21.8  5.9 833824 223736 pts/0   S<Ll+ 05:09  58:58 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  29:31 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  23:22 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:42 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:21 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:53 ./boardd
+root         257  0.8  0.5  82108 21820 ?        Ss   05:08   2:10 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:56 selfdrive.locationd.calibrationd
+root     1219628  0.4  0.0      0     0 ?        I    09:34   0:01 [kworker/u18:3-events_unbound]%
+cpu内存使用率:15.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         618        2347         193         694        2811
+交换：          0           0           0%
+温度: 87666%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:39:27 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   D<Ll+ 05:09  63:31 ./_modeld
+root         862 21.8  5.9 833824 223736 pts/0   S<Ll+ 05:09  59:12 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  29:37 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  23:27 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:44 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:21 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:53 ./boardd
+root         257  0.8  0.7  90236 26368 ?        Ss   05:08   2:11 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:57 selfdrive.locationd.calibrationd
+root     1219628  0.3  0.0      0     0 ?        I    09:34   0:01 [kworker/u18:3-events_freezable_power_]%
+cpu内存使用率:16.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         617        2346         193         696        2811
+交换：          0           0           0%
+温度: 87666%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:40:27 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   D<Ll+ 05:09  63:46 ./_modeld
+root         862 21.8  5.9 833824 223736 pts/0   S<Ll+ 05:09  59:25 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  29:44 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  23:33 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:45 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:22 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:54 ./boardd
+root         257  0.8  0.7  90236 27640 ?        Ss   05:08   2:11 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:57 selfdrive.locationd.calibrationd
+root     1219628  0.3  0.0      0     0 ?        I    09:34   0:01 [kworker/u18:3-events_power_efficient]%
+cpu内存使用率:15.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         619        2343         193         697        2810
+交换：          0           0           0%
+温度: 88555%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:41:28 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  64:00 ./_modeld
+root         862 21.8  5.9 830824 221368 pts/0   S<Ll+ 05:09  59:39 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  29:50 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  23:38 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:46 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:23 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:55 ./boardd
+root         257  0.8  0.7  90236 28696 ?        Ss   05:08   2:12 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:58 selfdrive.locationd.calibrationd
+root     1219628  0.3  0.0      0     0 ?        I    09:34   0:01 [kworker/u18:3-events_freezable_power_]%
+cpu内存使用率:15.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         616        2345         193         698        2812
+交换：          0           0           0%
+温度: 88555%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:42:28 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  64:15 ./_modeld
+root         862 21.8  5.9 830824 221368 pts/0   S<Ll+ 05:09  59:53 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  29:57 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  23:44 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:47 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:24 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:55 ./boardd
+root         257  0.8  0.7  90236 29752 ?        Ss   05:08   2:12 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:59 selfdrive.locationd.calibrationd
+root     1155252  0.3  0.0      0     0 ?        I    09:20   0:04 [kworker/u18:0-events_freezable_power_]%
+cpu内存使用率:16.4%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         615        2345         193         698        2813
+交换：          0           0           0%
+温度: 88555%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:43:29 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   D<Ll+ 05:09  64:30 ./_modeld
+root         862 21.8  5.9 830824 221368 pts/0   S<Ll+ 05:09  60:08 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    RLl+ 05:09  30:04 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  23:50 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:48 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:25 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:56 ./boardd
+root         257  0.8  0.9  98428 34168 ?        Ss   05:08   2:13 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:59 selfdrive.locationd.calibrationd
+root     1219628  0.3  0.0      0     0 ?        I    09:34   0:02 [kworker/u18:3-events_freezable_power_]%
+cpu内存使用率:16%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         618        2341         193         699        2811
+交换：          0           0           0%
+温度: 88555%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:44:29 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  64:45 ./_modeld
+root         862 21.8  5.9 830824 221368 pts/0   S<Ll+ 05:09  60:22 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  30:10 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  23:56 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:50 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:26 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:57 ./boardd
+root         257  0.8  0.9  98428 35188 ?        Ss   05:08   2:14 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   1:59 selfdrive.locationd.calibrationd
+root     1219628  0.3  0.0      0     0 ?        I    09:34   0:02 [kworker/u18:3-events_power_efficient]%
+cpu内存使用率:19.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         616        2342         193         700        2812
+交换：          0           0           0%
+温度: 89444%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:45:30 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   D<Ll+ 05:09  65:00 ./_modeld
+root         862 21.8  5.9 830824 221368 pts/0   S<Ll+ 05:09  60:36 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  30:17 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  24:02 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:51 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:27 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:57 ./boardd
+root         257  0.8  0.9  98428 36544 ?        Ss   05:08   2:14 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:00 selfdrive.locationd.calibrationd
+root     1219628  0.3  0.0      0     0 ?        I    09:34   0:02 [kworker/u18:3-events_freezable_power_]%
+cpu内存使用率:14.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         617        2339         193         702        2811
+交换：          0           0           0%
+温度: 88555%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:46:31 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  65:16 ./_modeld
+root         862 21.8  5.9 830824 221368 pts/0   S<Ll+ 05:09  60:50 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  30:24 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  24:07 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:52 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:28 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:58 ./boardd
+root         257  0.8  1.0 106620 38716 ?        Ss   05:08   2:15 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:01 selfdrive.locationd.calibrationd
+root     1271545  0.5  0.0      0     0 ?        I    09:45   0:00 [kworker/u18:1-events_freezable_power_]%
+cpu内存使用率:16.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         615        2340         193         703        2813
+交换：          0           0           0%
+温度: 89444%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:47:31 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   R<Ll+ 05:09  65:31 ./_modeld
+root         862 21.8  5.9 830824 221632 pts/0   S<Ll+ 05:09  61:04 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  30:31 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  24:13 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:54 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:29 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   2:59 ./boardd
+root         257  0.8  1.1 119820 42616 ?        Ss   05:08   2:15 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:01 selfdrive.locationd.calibrationd
+root     1271545  0.5  0.0      0     0 ?        I    09:45   0:00 [kworker/u18:1-events_freezable_power_]%
+cpu内存使用率:15.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         617        2358         193         683        2811
+交换：          0           0           0%
+温度: 89444%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:48:32 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  65:46 ./_modeld
+root         862 21.8  5.9 830824 221632 pts/0   S<Ll+ 05:09  61:19 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  30:37 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  24:19 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:55 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:30 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:00 ./boardd
+root         257  0.8  1.1 119820 43860 ?        Ss   05:08   2:16 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:02 selfdrive.locationd.calibrationd
+root     1271545  0.5  0.0      0     0 ?        I    09:45   0:01 [kworker/u18:1-events_freezable_power_]%
+cpu内存使用率:15.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         618        2356         193         685        2811
+交换：          0           0           0%
+温度: 88555%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:49:32 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  66:01 ./_modeld
+root         862 21.8  5.9 830824 221632 pts/0   S<Ll+ 05:09  61:34 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  30:44 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  24:25 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:56 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:31 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:00 ./boardd
+root         257  0.8  1.1 119820 44796 ?        Ss   05:08   2:16 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:02 selfdrive.locationd.calibrationd
+root     1271545  0.5  0.0      0     0 ?        I    09:45   0:01 [kworker/u18:1-events_unbound]%
+cpu内存使用率:15%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         617        2356         193         686        2812
+交换：          0           0           0%
+温度: 89444%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:50:33 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   R<Ll+ 05:09  66:16 ./_modeld
+root         862 21.8  5.9 830824 221632 pts/0   S<Ll+ 05:09  61:48 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  30:51 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  24:31 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:58 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:32 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:01 ./boardd
+root         257  0.8  1.2 119820 45848 ?        Ss   05:08   2:17 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:03 selfdrive.locationd.calibrationd
+root     1294613  0.5  0.0      0     0 ?        I    09:50   0:00 [kworker/u18:2-events_freezable_power_]%
+cpu内存使用率:16.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         616        2355         193         687        2813
+交换：          0           0           0%
+温度: 88555%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:51:33 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  66:31 ./_modeld
+root         862 21.8  5.9 830824 221632 pts/0   S<Ll+ 05:09  62:03 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    RLl+ 05:09  30:57 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  24:37 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   5:59 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:33 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413520  5940 pts/0    Sl+  05:09   3:02 ./boardd
+root         257  0.8  1.2 119820 46892 ?        Ss   05:08   2:17 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:04 selfdrive.locationd.calibrationd
+root     1294613  0.3  0.0      0     0 ?        I    09:50   0:00 [kworker/u18:2-events_freezable_power_]%
+cpu内存使用率:15.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         616        2354         193         688        2813
+交换：          0           0           0%
+温度: 89444%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:52:34 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  66:46 ./_modeld
+root         862 21.8  5.9 830824 221632 pts/0   S<Ll+ 05:09  62:17 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  31:04 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  24:43 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:00 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:34 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:02 ./boardd
+root         257  0.8  1.2 119820 47940 ?        Ss   05:08   2:18 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:04 selfdrive.locationd.calibrationd
+root     1304663  0.7  0.0      0     0 ?        I<   09:52   0:00 [kworker/u17:1-csf_scheduler_wq]%
+cpu内存使用率:13.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         618        2352         193         689        2811
+交换：          0           0           0%
+温度: 88555%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:53:34 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  67:00 ./_modeld
+root         862 21.9  5.9 830824 221896 pts/0   S<Ll+ 05:09  62:32 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  31:10 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  24:49 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:02 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:35 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:03 ./boardd
+root         257  0.8  1.3 119820 49012 ?        Ss   05:08   2:19 /lib/systemd/systemd-journald
+root     1304663  0.8  0.0      0     0 ?        I<   09:52   0:00 [kworker/u17:1-kbase_pm_poweroff_wait]
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:04 selfdrive.locationd.calibrationd%
+cpu内存使用率:16.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         617        2351         193         690        2812
+交换：          0           0           0%
+温度: 89444%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:54:35 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   D<Ll+ 05:09  67:15 ./_modeld
+root         862 21.9  5.9 830824 221896 pts/0   S<Ll+ 05:09  62:47 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  31:17 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  24:54 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:04 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:36 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:04 ./boardd
+linaro   1316788  1.0  0.0   9676  2880 pts/2    R+   09:55   0:00 ps aux
+root         257  0.8  1.4 128012 52612 ?        Ss   05:08   2:19 /lib/systemd/systemd-journald
+root     1304663  0.8  0.0      0     0 ?        I<   09:52   0:01 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:15%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         618        2348         193         693        2811
+交换：          0           0           0%
+温度: 89444%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:55:36 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  67:30 ./_modeld
+root         862 21.9  5.9 830824 221896 pts/0   S<Ll+ 05:09  63:01 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  31:24 ./trackd
+root         861  8.6 10.2 1218628 384464 pts/0  SLl+ 05:09  25:00 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Rl   05:09   6:05 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:37 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:05 ./boardd
+root         257  0.8  1.4 128012 53888 ?        Ss   05:08   2:20 /lib/systemd/systemd-journald
+root     1304663  0.8  0.0      0     0 ?        I<   09:52   0:01 [kworker/u17:1-csf_scheduler_wq]
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:05 selfdrive.locationd.calibrationd%
+cpu内存使用率:13.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         616        2349         193         694        2813
+交换：          0           0           0%
+温度: 89444%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:56:36 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  67:44 ./_modeld
+root         862 21.9  5.9 833824 224528 pts/0   R<Ll+ 05:09  63:16 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  31:30 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  25:06 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:07 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:38 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:05 ./boardd
+root         257  0.8  1.4 128012 54972 ?        Ss   05:08   2:20 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:06 selfdrive.locationd.calibrationd
+root     1304663  0.7  0.0      0     0 ?        I<   09:52   0:02 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:15.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         617        2347         193         695        2811
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:57:37 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  67:59 ./_modeld
+root         862 21.9  5.9 830824 221896 pts/0   S<Ll+ 05:09  63:30 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  31:37 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  25:12 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:08 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:39 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:06 ./boardd
+root         257  0.8  1.5 136204 58480 ?        Ss   05:08   2:21 /lib/systemd/systemd-journald
+root     1304663  0.8  0.0      0     0 ?        I<   09:52   0:02 [kworker/u17:1-kbase_pm_poweroff_wait]
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:06 selfdrive.locationd.calibrationd%
+cpu内存使用率:19.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         621        2341         193         696        2807
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:58:37 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   S<Ll+ 05:09  68:14 ./_modeld
+root         862 21.9  5.9 830824 221896 pts/0   S<Ll+ 05:09  63:45 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  31:44 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  25:18 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:10 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:40 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:07 ./boardd
+root         257  0.8  1.6 136204 60640 ?        Ss   05:08   2:21 /lib/systemd/systemd-journald
+root     1304663  0.8  0.0      0     0 ?        I<   09:52   0:03 [kworker/u17:1-kbase_pm_poweroff_wait]
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:07 selfdrive.locationd.calibrationd%
+cpu内存使用率:15.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         618        2343         193         697        2810
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:59:38 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   R<Ll+ 05:09  68:29 ./_modeld
+root         862 21.9  5.9 833824 224788 pts/0   S<Ll+ 05:09  63:58 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  31:50 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  25:24 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:12 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:40 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:07 ./boardd
+root         257  0.8  1.6 136204 61660 ?        Ss   05:08   2:22 /lib/systemd/systemd-journald
+root     1304663  0.8  0.0      0     0 ?        I<   09:52   0:03 [kworker/u17:1-kbase_pm_poweroff_wait]
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:07 selfdrive.locationd.calibrationd%
+cpu内存使用率:19%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         617        2343         193         698        2811
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:00:38 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   D<Ll+ 05:09  68:44 ./_modeld
+root         862 21.9  5.9 830824 222156 pts/0   S<Ll+ 05:09  64:13 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    RLl+ 05:09  31:57 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  25:30 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:13 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:41 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:08 ./boardd
+root         257  0.8  1.6 136204 62724 ?        Ss   05:08   2:23 /lib/systemd/systemd-journald
+root     1304663  0.8  0.0      0     0 ?        I<   09:52   0:04 [kworker/u17:1-kbase_pm_poweroff_wait]
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:08 selfdrive.locationd.calibrationd%
+cpu内存使用率:15.4%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         619        2341         193         699        2810
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:01:39 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.4  7.4 916000 279032 pts/0   D<Ll+ 05:09  68:59 ./_modeld
+root         862 21.9  5.9 833824 224788 pts/0   S<Ll+ 05:09  64:28 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  32:04 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  25:36 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:14 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:42 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:09 ./boardd
+root         257  0.8  1.7 144396 66968 ?        Ss   05:08   2:23 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:08 selfdrive.locationd.calibrationd
+root     1304663  0.7  0.0      0     0 ?        I<   09:52   0:04 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:17.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         620        2339         193         700        2809
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:02:40 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   R<Ll+ 05:09  69:14 ./_modeld
+root         862 21.9  5.9 830824 222156 pts/0   S<Ll+ 05:09  64:43 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  32:10 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  25:41 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:16 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:43 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:10 ./boardd
+root         257  0.8  1.8 144396 68456 ?        Ss   05:08   2:24 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:09 selfdrive.locationd.calibrationd
+root     1345586  0.7  0.0      0     0 ?        I<   10:01   0:00 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:13.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         620        2338         193         701        2809
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:03:40 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   S<Ll+ 05:09  69:29 ./_modeld
+root         862 21.9  5.9 830824 222156 pts/0   S<Ll+ 05:09  64:58 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    RLl+ 05:09  32:17 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  25:47 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:17 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:44 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:10 ./boardd
+root         257  0.8  1.8 144396 69328 ?        Ss   05:08   2:25 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:09 selfdrive.locationd.calibrationd
+root     1304663  0.6  0.0      0     0 ?        I<   09:52   0:04 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:14%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         618        2339         193         702        2811
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:04:41 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   R<Ll+ 05:09  69:44 ./_modeld
+root         862 21.9  5.9 833824 224788 pts/0   R<Ll+ 05:09  65:12 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  32:24 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  25:53 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:18 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:45 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:11 ./boardd
+root         257  0.8  1.8 144396 70672 ?        Ss   05:08   2:25 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:10 selfdrive.locationd.calibrationd
+root     1304663  0.6  0.0      0     0 ?        I<   09:52   0:05 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:15.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         618        2337         193         704        2811
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:05:41 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   S<Ll+ 05:09  69:59 ./_modeld
+root         862 21.9  5.9 830824 222420 pts/0   S<Ll+ 05:09  65:26 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  32:30 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  25:59 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:20 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:46 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:12 ./boardd
+root         257  0.8  1.9 152588 74900 ?        Ss   05:08   2:26 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:10 selfdrive.locationd.calibrationd
+root     1304663  0.6  0.0      0     0 ?        I<   09:52   0:05 [kworker/u17:1-csf_scheduler_wq]%
+cpu内存使用率:16%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         621        2333         193         705        2807
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:06:42 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   S<Ll+ 05:09  70:14 ./_modeld
+root         862 21.9  5.9 830824 222420 pts/0   S<Ll+ 05:09  65:41 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  32:37 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  26:05 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:22 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:47 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:12 ./boardd
+root         257  0.8  0.2  65720  8692 ?        Ss   05:08   2:26 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:11 selfdrive.locationd.calibrationd
+root     1304663  0.6  0.0      0     0 ?        I<   09:52   0:05 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:15.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         618        2345         193         695        2810
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:07:42 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   D<Ll+ 05:09  70:29 ./_modeld
+root         862 22.0  6.0 833824 225052 pts/0   R<Ll+ 05:09  65:56 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  32:44 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  26:11 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:23 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:48 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:13 ./boardd
+root         257  0.8  0.2  65720  9828 ?        Ss   05:08   2:27 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:12 selfdrive.locationd.calibrationd
+root     1304663  0.5  0.0      0     0 ?        I<   09:52   0:05 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:14.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         620        2343         193         696        2809
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:08:43 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   S<Ll+ 05:09  70:44 ./_modeld
+root         862 22.0  5.9 830824 222420 pts/0   S<Ll+ 05:09  66:10 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  32:50 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  26:17 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:25 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:49 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:14 ./boardd
+root         257  0.8  0.2  65720 10920 ?        Ss   05:08   2:28 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:12 selfdrive.locationd.calibrationd
+root     1304663  0.5  0.0      0     0 ?        I<   09:52   0:05 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:15.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         619        2342         193         698        2809
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:09:43 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   S<Ll+ 05:09  70:59 ./_modeld
+root         862 22.0  5.9 830824 222420 pts/0   S<Ll+ 05:09  66:25 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  32:57 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  26:23 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:26 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:50 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:15 ./boardd
+root         257  0.8  0.3  65720 11880 ?        Ss   05:08   2:28 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:13 selfdrive.locationd.calibrationd
+root     1380337  0.7  0.0      0     0 ?        I<   10:09   0:00 [kworker/u17:0-kbase_pm_poweroff_wait]%
+cpu内存使用率:17.4%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         619        2341         193         699        2810
+交换：          0           0           0%
+温度: 89444%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:10:44 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   S<Ll+ 05:09  71:14 ./_modeld
+root         862 22.0  6.0 836824 226364 pts/0   R<Ll+ 05:09  66:39 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  33:04 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  26:28 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:28 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:51 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:15 ./boardd
+root         257  0.8  0.3  65720 12940 ?        Ss   05:08   2:28 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:13 selfdrive.locationd.calibrationd
+root     1380337  0.6  0.0      0     0 ?        I<   10:09   0:00 [kworker/u17:0-kbase_pm_poweroff_wait]%
+cpu内存使用率:15.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         618        2341         193         700        2811
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:11:45 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   D<Ll+ 05:09  71:29 ./_modeld
+root         862 22.0  6.0 833824 225316 pts/0   S<Ll+ 05:09  66:53 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  33:11 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  26:34 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:29 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:51 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:16 ./boardd
+root         257  0.8  0.3  65720 13868 ?        Ss   05:08   2:29 /lib/systemd/systemd-journald
+root     1380337  0.8  0.0      0     0 ?        I<   10:09   0:01 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:14 selfdrive.locationd.calibrationd%
+cpu内存使用率:15.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         618        2340         193         701        2810
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:12:45 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   S<Ll+ 05:09  71:44 ./_modeld
+root         862 22.0  5.9 830824 222684 pts/0   S<Ll+ 05:09  67:07 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  33:17 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  26:40 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:31 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:52 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:17 ./boardd
+root         257  0.8  0.4  73912 16624 ?        Ss   05:08   2:30 /lib/systemd/systemd-journald
+root     1380337  0.8  0.0      0     0 ?        I<   10:09   0:01 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:15 selfdrive.locationd.calibrationd%
+cpu内存使用率:13.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         620        2335         193         703        2808
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:13:46 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   S<Ll+ 05:09  71:59 ./_modeld
+root         862 22.0  5.9 836824 222684 pts/0   R<Ll+ 05:09  67:22 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  33:24 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  26:46 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:33 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:53 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:17 ./boardd
+root         257  0.8  0.4  73912 18712 ?        Ss   05:08   2:30 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:15 selfdrive.locationd.calibrationd
+root     1380337  0.6  0.0      0     0 ?        I<   10:09   0:02 [kworker/u17:0-kbase_pm_poweroff_wait]%
+cpu内存使用率:16.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         618        2337         193         704        2811
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:14:46 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   D<Ll+ 05:09  72:14 ./_modeld
+root         862 22.0  6.0 833824 225316 pts/0   S<Ll+ 05:09  67:37 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  33:31 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  26:52 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:35 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:54 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:18 ./boardd
+root         257  0.8  0.5  73912 19788 ?        Ss   05:08   2:31 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:16 selfdrive.locationd.calibrationd
+root     1404514  0.6  0.0      0     0 ?        I<   10:15   0:00 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:17.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         621        2332         193         705        2808
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:15:47 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   S<Ll+ 05:09  72:29 ./_modeld
+root         862 22.0  5.9 830824 222684 pts/0   S<Ll+ 05:09  67:51 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  33:37 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  26:58 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:37 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:55 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:19 ./boardd
+root         257  0.8  0.5  73912 20908 ?        Ss   05:08   2:31 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:16 selfdrive.locationd.calibrationd
+root     1404514  0.4  0.0      0     0 ?        I<   10:15   0:00 [kworker/u17:2-csf_scheduler_wq]%
+cpu内存使用率:15.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         620        2332         193         706        2808
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:16:47 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   S<Ll+ 05:09  72:44 ./_modeld
+root         862 22.0  5.9 830824 222684 pts/0   S<Ll+ 05:09  68:05 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  33:44 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  27:04 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:38 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:56 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:19 ./boardd
+root         257  0.8  0.6  82060 25280 ?        Ss   05:08   2:32 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:17 selfdrive.locationd.calibrationd
+root     1404514  0.7  0.0      0     0 ?        I<   10:15   0:01 [kworker/u17:2-csf_scheduler_wq]%
+cpu内存使用率:15.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         618        2333         193         708        2811
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:17:48 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   D<Ll+ 05:09  72:59 ./_modeld
+root         862 22.0  6.0 833824 225316 pts/0   S<Ll+ 05:09  68:20 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  33:50 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  27:10 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:39 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:56 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:20 ./boardd
+root     1420705  1.0  0.1  12736  4508 pts/0    D+   10:18   0:00 sudo ./setcan.sh
+root         257  0.8  0.7  82060 26576 ?        Ss   05:08   2:32 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:17 selfdrive.locationd.calibrationd%
+cpu内存使用率:14.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         619        2330         193         709        2809
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:18:49 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   S<Ll+ 05:09  73:14 ./_modeld
+root         862 22.0  5.9 830824 222948 pts/0   S<Ll+ 05:09  68:34 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  33:57 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  27:15 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:40 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:57 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:21 ./boardd
+root         257  0.8  0.7  82060 27628 ?        Ss   05:08   2:33 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:18 selfdrive.locationd.calibrationd
+root     1422725  0.6  0.0      0     0 ?        I    10:19   0:00 [kworker/u18:0-events_freezable_power_]%
+cpu内存使用率:18.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         619        2330         193         710        2810
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:19:49 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   R<Ll+ 05:09  73:29 ./_modeld
+root         862 22.0  6.0 833824 225580 pts/0   S<Ll+ 05:09  68:48 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  34:04 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  27:21 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:42 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:58 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:22 ./boardd
+root         257  0.8  0.7  82060 28780 ?        Ss   05:08   2:33 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:19 selfdrive.locationd.calibrationd
+root     1404514  0.5  0.0      0     0 ?        I<   10:15   0:01 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:13.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         618        2329         193         711        2810
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:20:50 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   S<Ll+ 05:09  73:44 ./_modeld
+root         862 22.0  5.9 830824 222948 pts/0   S<Ll+ 05:09  69:02 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  34:10 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  27:27 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:43 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   3:59 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:22 ./boardd
+root         257  0.8  0.8  90252 33044 ?        Ss   05:08   2:34 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:19 selfdrive.locationd.calibrationd
+root     1404514  0.5  0.0      0     0 ?        I<   10:15   0:02 [kworker/u17:2-csf_scheduler_wq]%
+cpu内存使用率:13%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         620        2327         193         712        2808
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:21:50 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   S<Ll+ 05:09  73:59 ./_modeld
+root         862 22.0  5.9 830824 222948 pts/0   S<Ll+ 05:09  69:16 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  34:17 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  27:33 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:45 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   4:00 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:23 ./boardd
+root         257  0.8  0.9  90252 34236 ?        Ss   05:08   2:34 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:20 selfdrive.locationd.calibrationd
+root     1422725  0.5  0.0      0     0 ?        I    10:19   0:01 [kworker/u18:0-events_freezable_power_]%
+cpu内存使用率:15.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         620        2326         193         713        2809
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:22:51 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   D<Ll+ 05:09  74:13 ./_modeld
+root         862 22.0  6.0 833824 225580 pts/0   S<Ll+ 05:09  69:31 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  34:24 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  27:39 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:46 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   4:01 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:24 ./boardd
+root         257  0.8  0.9  90252 35176 ?        Rs   05:08   2:35 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:21 selfdrive.locationd.calibrationd
+root     1404514  0.6  0.0      0     0 ?        I<   10:15   0:03 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:15.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         620        2325         193         713        2808
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:23:51 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   S<Ll+ 05:09  74:28 ./_modeld
+root         862 22.0  5.9 830824 222948 pts/0   S<Ll+ 05:09  69:46 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  34:30 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  27:45 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:48 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   4:02 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:24 ./boardd
+root         257  0.8  0.9  90252 36456 ?        Ss   05:08   2:36 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:21 selfdrive.locationd.calibrationd
+root     1404514  0.6  0.0      0     0 ?        I<   10:15   0:03 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:15.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         619        2324         193         715        2809
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:24:52 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   R<Ll+ 05:09  74:43 ./_modeld
+root         862 22.0  5.9 830824 223212 pts/0   S<Ll+ 05:09  70:00 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  34:37 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  27:51 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:49 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   4:03 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413520  5940 pts/0    Sl+  05:09   3:25 ./boardd
+root         257  0.8  1.0  98444 40500 ?        Ss   05:08   2:36 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:21 selfdrive.locationd.calibrationd
+root     1448201  0.5  0.0      0     0 ?        I<   10:24   0:00 [kworker/u17:0-kbase_pm_poweroff_wait]%
+cpu内存使用率:13.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         621        2321         193         716        2808
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:25:53 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   S<Ll+ 05:09  74:58 ./_modeld
+root         862 22.1  5.9 830824 223212 pts/0   S<Ll+ 05:09  70:14 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  34:44 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  27:57 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:50 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   4:04 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:26 ./boardd
+root         257  0.8  0.2  73916 10188 ?        Ss   05:08   2:37 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:22 selfdrive.locationd.calibrationd
+root     1448201  0.6  0.0      0     0 ?        I<   10:24   0:00 [kworker/u17:0-kbase_pm_poweroff_wait]%
+cpu内存使用率:18%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         619        2363         193         676        2809
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:26:53 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   D<Ll+ 05:09  75:13 ./_modeld
+root         862 22.1  6.0 833824 225844 pts/0   S<Ll+ 05:09  70:29 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  34:50 ./trackd
+root         861  8.7 10.2 1218628 384464 pts/0  SLl+ 05:09  28:02 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:52 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   4:05 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:27 ./boardd
+root         257  0.8  0.2  73916 11140 ?        Ss   05:08   2:37 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:22 selfdrive.locationd.calibrationd
+root     1448201  0.6  0.0      0     0 ?        I<   10:24   0:01 [kworker/u17:0-kbase_pm_poweroff_wait]%
+cpu内存使用率:14.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         619        2363         193         677        2809
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:27:54 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.5  7.4 916000 279032 pts/0   S<Ll+ 05:09  75:28 ./_modeld
+root         862 22.1  5.9 830824 223212 pts/0   S<Ll+ 05:09  70:44 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  34:57 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 05:09  28:08 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:53 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   4:06 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:27 ./boardd
+root         257  0.8  0.3  73916 12212 ?        Ss   05:08   2:38 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:23 selfdrive.locationd.calibrationd
+root     1448201  0.6  0.0      0     0 ?        I<   10:24   0:01 [kworker/u17:0-kbase_pm_poweroff_wait]%
+cpu内存使用率:16.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         618        2362         193         678        2810
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:28:54 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   R<Ll+ 05:09  75:43 ./_modeld
+root         862 22.1  5.9 830824 223212 pts/0   S<Ll+ 05:09  70:58 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  35:04 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 05:09  28:14 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:54 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   4:07 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:28 ./boardd
+root         257  0.8  0.3  73916 13208 ?        Ss   05:08   2:39 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:23 selfdrive.locationd.calibrationd
+root     1468447  0.7  0.0      0     0 ?        I    10:29   0:00 [kworker/u18:0-events_freezable_power_]%
+cpu内存使用率:15.4%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         621        2358         193         679        2807
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:29:55 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   S<Ll+ 05:09  75:58 ./_modeld
+root         862 22.1  6.0 836824 227420 pts/0   R<Ll+ 05:09  71:13 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  35:10 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 05:09  28:20 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:56 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   4:07 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:29 ./boardd
+root         257  0.8  0.3  73916 14268 ?        Ss   05:08   2:39 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:24 selfdrive.locationd.calibrationd
+root     1448201  0.5  0.0      0     0 ?        I<   10:24   0:02 [kworker/u17:0-csf_scheduler_wq]%
+cpu内存使用率:12.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         619        2359         193         680        2809
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:30:55 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   S<Ll+ 05:09  76:13 ./_modeld
+root         862 22.1  5.9 830824 223476 pts/0   S<Ll+ 05:09  71:27 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 05:09  35:17 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 05:09  28:26 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   05:09   6:58 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  05:09   4:08 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  05:09   3:29 ./boardd
+root         257  0.8  0.4  73916 15380 ?        Ss   05:08   2:40 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  05:09   2:24 selfdrive.locationd.calibrationd
+root     1448201  0.5  0.0      0     0 ?        I<   10:24   0:02 [kworker/u17:0-kbase_pm_poweroff_wait]%
+cpu内存使用率:17%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         619        2358         193         682        2809
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:31:56 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   D<Ll+ 04:06  76:28 ./_modeld
+root         862 22.1  5.9 830824 223476 pts/0   S<Ll+ 04:06  71:42 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    RLl+ 04:06  35:24 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  28:32 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   6:59 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:09 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:30 ./boardd
+root         257  0.8  0.2  73916  9944 ?        Ss   04:06   2:40 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:25 selfdrive.locationd.calibrationd
+root     1468447  0.4  0.0      0     0 ?        I    09:27   0:00 [kworker/u18:0-events_unbound]%
+cpu内存使用率:15.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         622        2352         193         684        2807
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:30:45 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   S<Ll+ 04:06  76:43 ./_modeld
+root         862 22.1  5.9 830824 223476 pts/0   S<Ll+ 04:06  71:57 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  35:30 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  28:38 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:01 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:10 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:31 ./boardd
+root         257  0.8  0.2  73916 11104 ?        Ss   04:06   2:41 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:25 selfdrive.locationd.calibrationd
+root     1468447  0.4  0.0      0     0 ?        I    09:27   0:01 [kworker/u18:0-events_unbound]%
+cpu内存使用率:15.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         619        2353         193         686        2809
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:31:45 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   R<Ll+ 04:06  76:58 ./_modeld
+root         862 22.1  5.9 830824 223476 pts/0   S<Ll+ 04:06  72:11 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  35:37 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  28:44 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:02 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:11 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:32 ./boardd
+root         257  0.8  0.3  73916 12184 ?        Ss   04:06   2:42 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:26 selfdrive.locationd.calibrationd
+root     1468447  0.4  0.0      0     0 ?        I    09:27   0:01 [kworker/u18:0-flush-179:0]%
+cpu内存使用率:16.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         621        2350         193         687        2808
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:32:46 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   D<Ll+ 04:06  77:13 ./_modeld
+root         862 22.1  6.0 836824 228212 pts/0   R<Ll+ 04:06  72:25 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  35:44 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  28:49 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:03 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:12 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:32 ./boardd
+root         257  0.8  0.3  73916 13180 ?        Ss   04:06   2:42 /lib/systemd/systemd-journald
+root     1492862  0.8  0.0      0     0 ?        I    09:32   0:00 [kworker/u18:1-events_freezable_power_]
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:26 selfdrive.locationd.calibrationd%
+cpu内存使用率:13.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         621        2349         193         688        2807
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:33:47 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   S<Ll+ 04:06  77:28 ./_modeld
+root         862 22.1  5.9 830824 223476 pts/0   S<Ll+ 04:06  72:39 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    RLl+ 04:06  35:50 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  28:55 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:05 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:13 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:33 ./boardd
+root         257  0.8  0.3  73916 14244 ?        Ss   04:06   2:43 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:27 selfdrive.locationd.calibrationd
+root     1492862  0.7  0.0      0     0 ?        I    09:32   0:01 [kworker/u18:1-events_freezable_power_]%
+cpu内存使用率:16.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         622        2347         193         689        2806
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:34:47 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   R<Ll+ 04:06  77:43 ./_modeld
+root         862 22.1  5.9 830824 223740 pts/0   S<Ll+ 04:06  72:54 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  35:57 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  29:01 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:06 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:14 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:34 ./boardd
+root         257  0.8  0.4  73916 15308 ?        Ss   04:06   2:43 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:27 selfdrive.locationd.calibrationd
+root     1492862  0.6  0.0      0     0 ?        I    09:32   0:01 [kworker/u18:1-events_freezable_power_]%
+cpu内存使用率:16.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         620        2348         193         690        2808
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:35:48 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   S<Ll+ 04:06  77:58 ./_modeld
+root         862 22.1  5.9 830824 223740 pts/0   S<Ll+ 04:06  73:09 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  36:04 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  29:07 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:08 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:15 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:34 ./boardd
+root         257  0.8  0.4  82108 18680 ?        Ss   04:06   2:44 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:28 selfdrive.locationd.calibrationd
+root     1492862  0.5  0.0      0     0 ?        I    09:32   0:01 [kworker/u18:1-events_unbound]%
+cpu内存使用率:14.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         620        2346         193         693        2808
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:36:48 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   D<Ll+ 04:06  78:13 ./_modeld
+root         862 22.1  6.0 833824 226372 pts/0   S<Ll+ 04:06  73:23 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  36:11 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  29:13 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:09 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:16 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:35 ./boardd
+root         257  0.8  0.5  82108 20332 ?        Ss   04:06   2:44 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:28 selfdrive.locationd.calibrationd
+root     1492862  0.4  0.0      0     0 ?        I    09:32   0:01 [kworker/u18:1-events_freezable_power_]%
+cpu内存使用率:15%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         622        2343         193         694        2806
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:37:49 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   D<Ll+ 04:06  78:28 ./_modeld
+root         862 22.1  6.0 833824 226372 pts/0   S<Ll+ 04:06  73:37 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  36:17 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  29:19 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:10 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:17 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:36 ./boardd
+root         257  0.8  0.5  82108 21464 ?        Ss   04:06   2:45 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:29 selfdrive.locationd.calibrationd
+root     1515989  0.5  0.0      0     0 ?        I    09:37   0:00 [kworker/u18:0-events_freezable_power_]%
+cpu内存使用率:15.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         622        2341         193         695        2806
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:38:49 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   S<Ll+ 04:06  78:43 ./_modeld
+root         862 22.1  5.9 830824 223740 pts/0   S<Ll+ 04:06  73:52 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  36:24 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  29:25 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:12 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:18 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:37 ./boardd
+root         257  0.8  0.6  90300 22700 ?        Ss   04:06   2:46 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:29 selfdrive.locationd.calibrationd
+root     1492862  0.4  0.0      0     0 ?        I    09:32   0:01 [kworker/u18:1-events_freezable_power_]%
+cpu内存使用率:16.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         621        2342         193         695        2807
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:39:50 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   D<Ll+ 04:06  78:58 ./_modeld
+root         862 22.1  6.0 833824 226372 pts/0   S<Ll+ 04:06  74:06 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  36:31 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  29:31 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:13 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:19 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:37 ./boardd
+root         257  0.8  0.7  90300 27108 ?        Ss   04:06   2:46 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:30 selfdrive.locationd.calibrationd
+root     1515989  0.4  0.0      0     0 ?        I    09:37   0:00 [kworker/u18:0-events_freezable_power_]%
+cpu内存使用率:16%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         620        2341         193         697        2808
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:40:50 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   S<Ll+ 04:06  79:13 ./_modeld
+root         862 22.1  5.9 830824 224004 pts/0   S<Ll+ 04:06  74:21 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  36:37 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  29:37 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:15 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:20 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:38 ./boardd
+root         257  0.8  0.7  90300 28232 ?        Ss   04:06   2:47 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:30 selfdrive.locationd.calibrationd
+root     1492862  0.4  0.0      0     0 ?        S    09:32   0:02 [kworker/u18:1+events_unbound]%
+cpu内存使用率:15.4%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         621        2339         193         698        2807
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:41:51 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   D<Ll+ 04:06  79:28 ./_modeld
+root         862 22.2  5.9 830824 224004 pts/0   S<Ll+ 04:06  74:36 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  36:44 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  29:42 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:16 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:21 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:39 ./boardd
+root         257  0.8  0.7  90300 29144 ?        Ss   04:06   2:47 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:31 selfdrive.locationd.calibrationd
+root     1515989  0.4  0.0      0     0 ?        I    09:37   0:01 [kworker/u18:0-events_freezable_power_]%
+cpu内存使用率:15.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         623        2336         193         699        2805
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:42:51 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   S<Ll+ 04:06  79:43 ./_modeld
+root         862 22.2  5.9 830824 224004 pts/0   S<Ll+ 04:06  74:50 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  36:50 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  29:48 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:18 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:22 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:39 ./boardd
+root         257  0.8  0.8 102648 33568 ?        Ss   04:06   2:48 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:31 selfdrive.locationd.calibrationd
+root     1492862  0.4  0.0      0     0 ?        I    09:32   0:03 [kworker/u18:1-events_freezable_power_]%
+cpu内存使用率:16.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         620        2338         193         700        2808
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:43:52 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   R<Ll+ 04:06  79:58 ./_modeld
+root         862 22.2  6.0 833824 226636 pts/0   S<Ll+ 04:06  75:04 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  36:57 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  29:54 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:19 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:23 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:40 ./boardd
+root         257  0.8  0.9 102648 36132 ?        Ss   04:06   2:49 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:32 selfdrive.locationd.calibrationd
+root     1492862  0.4  0.0      0     0 ?        I    09:32   0:03 [kworker/u18:1-events_power_efficient]%
+cpu内存使用率:16.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         623        2335         193         701        2806
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:44:53 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   S<Ll+ 04:06  80:13 ./_modeld
+root         862 22.2  5.9 830824 224004 pts/0   S<Ll+ 04:06  75:19 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    RLl+ 04:06  37:04 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  30:00 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:21 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:24 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:41 ./boardd
+root         257  0.8  0.9 102648 37136 ?        Ss   04:06   2:49 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:32 selfdrive.locationd.calibrationd
+root     1492862  0.4  0.0      0     0 ?        I    09:32   0:03 [kworker/u18:1-events_freezable_power_]%
+cpu内存使用率:15.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         620        2336         193         702        2808
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:45:53 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   R<Ll+ 04:06  80:28 ./_modeld
+root         862 22.2  6.0 833824 226636 pts/0   S<Ll+ 04:06  75:34 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  37:10 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  30:06 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:23 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:24 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:42 ./boardd
+root         257  0.8  1.0 102648 38480 ?        Ss   04:06   2:50 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:33 selfdrive.locationd.calibrationd
+root     1492862  0.4  0.0      0     0 ?        I    09:32   0:03 [kworker/u18:1-events_freezable_power_]%
+cpu内存使用率:16.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         622        2332         193         704        2806
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:46:54 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   R<Ll+ 04:06  80:43 ./_modeld
+root         862 22.2  5.9 833824 224004 pts/0   R<Ll+ 04:06  75:49 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  37:17 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  30:12 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:26 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:25 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:42 ./boardd
+root         257  0.8  1.1 110840 42600 ?        Ss   04:06   2:50 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:33 selfdrive.locationd.calibrationd
+root     1492862  0.4  0.0      0     0 ?        I    09:32   0:04 [kworker/u18:1-events_unbound]%
+cpu内存使用率:15.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         624        2330         193         705        2805
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:47:54 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   S<Ll+ 04:06  80:58 ./_modeld
+root         862 22.2  5.9 830824 224264 pts/0   S<Ll+ 04:06  76:04 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  37:24 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  30:18 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:28 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:25 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:43 ./boardd
+root         257  0.8  0.2  73916  9392 ?        Ss   04:06   2:51 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:34 selfdrive.locationd.calibrationd
+root     1492862  0.4  0.0      0     0 ?        I    09:32   0:04 [kworker/u18:1-events_freezable_power_]%
+cpu内存使用率:16.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         621        2358         193         679        2807
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:48:55 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   R<Ll+ 04:06  81:13 ./_modeld
+root         862 22.2  6.0 833824 226896 pts/0   R<Ll+ 04:06  76:18 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  37:30 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  30:24 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:30 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:26 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:44 ./boardd
+root         257  0.8  0.2  73916 10592 ?        Ss   04:06   2:52 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:34 selfdrive.locationd.calibrationd
+root     1566815  0.5  0.0      0     0 ?        I<   09:49   0:00 [kworker/u17:0-kbase_pm_poweroff_wait]%
+cpu内存使用率:15.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         621        2357         193         680        2807
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:49:55 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   S<Ll+ 04:06  81:28 ./_modeld
+root         862 22.2  5.9 830824 224264 pts/0   S<Ll+ 04:06  76:33 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  37:37 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  30:29 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:32 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:27 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:44 ./boardd
+root         257  0.8  0.3  73916 11732 ?        Ss   04:06   2:52 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:35 selfdrive.locationd.calibrationd
+root     1566815  0.7  0.0      0     0 ?        I<   09:49   0:00 [kworker/u17:0-kbase_pm_poweroff_wait]%
+cpu内存使用率:16.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         626        2351         193         681        2803
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:50:56 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   D<Ll+ 04:06  81:42 ./_modeld
+root         862 22.2  6.0 833824 226896 pts/0   R<Ll+ 04:06  76:47 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 04:06  37:44 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 04:06  30:35 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   04:06   7:34 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  04:06   4:29 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  04:06   3:45 ./boardd
+root         257  0.8  0.3  73916 12760 ?        Ss   04:06   2:53 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  04:06   2:35 selfdrive.locationd.calibrationd
+root     1566815  0.6  0.0      0     0 ?        I<   09:49   0:01 [kworker/u17:0-csf_scheduler_wq]%
+cpu内存使用率:15.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         624        2352         193         682        2804
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:51:57 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   D<Ll+ 03:44  81:58 ./_modeld
+root         862 22.2  6.0 833824 226896 pts/0   S<Ll+ 03:44  77:01 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  37:51 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 03:44  30:41 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   03:44   7:35 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.2  0.4 256036 16496 ?        Ssl  03:44   4:29 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:46 ./boardd
+root         257  0.8  0.2  73916 10024 ?        Ss   03:44   2:53 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:36 selfdrive.locationd.calibrationd
+root     1566815  0.6  0.0      0     0 ?        I<   09:27   0:01 [kworker/u17:0-kbase_pm_poweroff_wait]%
+cpu内存使用率:18.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         624        2355         193         679        2804
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:30:52 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   S<Ll+ 03:44  82:12 ./_modeld
+root         862 22.2  5.9 830824 224264 pts/0   S<Ll+ 03:44  77:15 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  37:57 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 03:44  30:47 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   03:44   7:37 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:30 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:47 ./boardd
+root         257  0.8  0.2  73916 10984 ?        Ss   03:44   2:54 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:37 selfdrive.locationd.calibrationd
+root     1566815  0.6  0.0      0     0 ?        I<   09:27   0:01 [kworker/u17:0-kbase_pm_poweroff_wait]%
+cpu内存使用率:16.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         626        2352         193         680        2803
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:31:52 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   R<Ll+ 03:44  82:27 ./_modeld
+root         862 22.2  6.0 833824 227160 pts/0   S<Ll+ 03:44  77:30 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  38:04 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 03:44  30:53 ./camerad
+root         432  2.1  0.4 1048188 17692 ?       Sl   03:44   7:39 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:31 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:47 ./boardd
+root         257  0.8  0.3  73916 12072 ?        Ss   03:44   2:55 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:37 selfdrive.locationd.calibrationd
+root     1566815  0.6  0.0      0     0 ?        I<   09:27   0:02 [kworker/u17:0-kbase_pm_poweroff_wait]%
+cpu内存使用率:17.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         625        2352         193         682        2804
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:32:53 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   S<Ll+ 03:44  82:43 ./_modeld
+root         862 22.2  5.9 830824 224528 pts/0   S<Ll+ 03:44  77:45 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  38:11 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 03:44  30:59 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   7:41 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:32 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:48 ./boardd
+root         257  0.8  0.3  73916 13148 ?        Ss   03:44   2:55 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:38 selfdrive.locationd.calibrationd
+root     1593805  0.6  0.0      0     0 ?        I<   09:32   0:00 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:15.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         625        2350         193         683        2803
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:33:53 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.6  7.4 916000 279032 pts/0   D<Ll+ 03:44  82:58 ./_modeld
+root         862 22.2  6.0 833824 227160 pts/0   R<Ll+ 03:44  78:00 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  38:17 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 03:44  31:05 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   7:43 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:33 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:49 ./boardd
+root         257  0.8  0.3  73916 14092 ?        Ss   03:44   2:55 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:38 selfdrive.locationd.calibrationd
+root     1566815  0.5  0.0      0     0 ?        I<   09:27   0:02 [kworker/u17:0-csf_scheduler_gpu_idle_]%
+cpu内存使用率:17.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         625        2349         193         684        2803
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:34:54 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   R<Ll+ 03:44  83:13 ./_modeld
+root         862 22.2  6.0 833824 227160 pts/0   R<Ll+ 03:44  78:15 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  38:24 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 03:44  31:11 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   7:44 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:34 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:49 ./boardd
+root         257  0.8  0.4  73916 15128 ?        Ss   03:44   2:56 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:39 selfdrive.locationd.calibrationd
+root     1593805  0.5  0.0      0     0 ?        I<   09:32   0:01 [kworker/u17:1-csf_scheduler_wq]%
+cpu内存使用率:16.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         626        2347         193         685        2802
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:35:54 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   R<Ll+ 03:44  83:28 ./_modeld
+root         862 22.2  5.9 830824 224528 pts/0   S<Ll+ 03:44  78:29 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  38:31 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 03:44  31:16 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   7:46 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:35 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:50 ./boardd
+root         257  0.8  0.5  82108 18768 ?        Ss   03:44   2:57 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:40 selfdrive.locationd.calibrationd
+root     1593805  0.6  0.0      0     0 ?        I<   09:32   0:01 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:14%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         626        2345         193         688        2802
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:36:55 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  83:43 ./_modeld
+root         862 22.2  5.9 830824 224528 pts/0   S<Ll+ 03:44  78:44 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  38:37 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 03:44  31:22 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   7:47 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:36 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:51 ./boardd
+root         257  0.8  0.5  82108 19912 ?        Ss   03:44   2:57 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:40 selfdrive.locationd.calibrationd
+root     1593805  0.7  0.0      0     0 ?        I<   09:32   0:02 [kworker/u17:1-csf_scheduler_wq]%
+cpu内存使用率:14.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         624        2346         193         688        2804
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:37:56 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  83:58 ./_modeld
+root         862 22.2  5.9 830824 224792 pts/0   S<Ll+ 03:44  78:58 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  38:44 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 03:44  31:28 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   7:49 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:37 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:52 ./boardd
+root         257  0.8  0.5  82108 21176 ?        Ss   03:44   2:58 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:41 selfdrive.locationd.calibrationd
+root     1593805  0.6  0.0      0     0 ?        I<   09:32   0:02 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:18.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         625        2344         193         689        2803
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:38:56 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   D<Ll+ 03:44  84:13 ./_modeld
+root         862 22.3  6.0 833824 227424 pts/0   S<Ll+ 03:44  79:13 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  38:51 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 03:44  31:34 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   7:51 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:38 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:52 ./boardd
+root         257  0.8  0.5  82108 22328 ?        Ss   03:44   2:58 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:41 selfdrive.locationd.calibrationd
+root     1593805  0.7  0.0      0     0 ?        I<   09:32   0:03 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:16.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         628        2340         193         690        2801
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:39:57 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  84:28 ./_modeld
+root         862 22.3  5.9 830824 224792 pts/0   S<Ll+ 03:44  79:28 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  38:57 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 03:44  31:40 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   7:53 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:39 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:53 ./boardd
+root     1627834  1.0  0.0      0     0 ?        I<   09:40   0:00 [kworker/u17:0-csf_scheduler_wq]
+root         257  0.8  0.7  90300 26832 ?        Ss   03:44   2:59 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:41 selfdrive.locationd.calibrationd%
+cpu内存使用率:15.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         626        2340         193         692        2802
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:40:57 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  84:43 ./_modeld
+root         862 22.3  6.1 836824 228736 pts/0   R<Ll+ 03:44  79:43 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  39:04 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 03:44  31:46 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   7:56 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:40 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:54 ./boardd
+root         257  0.8  0.7  90300 28000 ?        Ss   03:44   3:00 /lib/systemd/systemd-journald
+root     1627834  0.8  0.0      0     0 ?        I<   09:40   0:00 [kworker/u17:0-kbase_pm_poweroff_wait]
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:42 selfdrive.locationd.calibrationd%
+cpu内存使用率:15.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         625        2340         193         693        2803
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:41:58 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  84:58 ./_modeld
+root         862 22.3  5.9 830824 224792 pts/0   S<Ll+ 03:44  79:58 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  39:11 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 03:44  31:52 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   7:58 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:41 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:54 ./boardd
+root         257  0.8  0.7  90300 29052 ?        Ss   03:44   3:00 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:42 selfdrive.locationd.calibrationd
+root     1593805  0.6  0.0      0     0 ?        I<   09:32   0:03 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:17.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         627        2337         193         694        2801
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:42:58 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   R<Ll+ 03:44  85:13 ./_modeld
+root         862 22.3  5.9 830824 224792 pts/0   S<Ll+ 03:44  80:13 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  39:17 ./trackd
+root         861  8.8 10.2 1218628 384464 pts/0  SLl+ 03:44  31:58 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:00 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:42 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:55 ./boardd
+root         257  0.8  0.8 102656 33140 ?        Ss   03:44   3:01 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:43 selfdrive.locationd.calibrationd
+root     1593805  0.6  0.0      0     0 ?        I<   09:32   0:04 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:15.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         628        2336         193         695        2801
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:43:59 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  85:28 ./_modeld
+root         862 22.3  6.0 830824 225056 pts/0   S<Ll+ 03:44  80:28 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  39:24 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  32:03 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:02 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:43 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:56 ./boardd
+root         257  0.8  0.9 102656 36112 ?        Ss   03:44   3:01 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:44 selfdrive.locationd.calibrationd
+root     1593805  0.6  0.0      0     0 ?        I<   09:32   0:05 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:16.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         626        2337         193         696        2802
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:45:00 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  85:43 ./_modeld
+root         862 22.3  6.0 830824 225056 pts/0   S<Ll+ 03:44  80:42 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  39:31 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  32:09 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:03 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:44 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:56 ./boardd
+root         257  0.8  0.9 102656 37080 ?        Ss   03:44   3:02 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:44 selfdrive.locationd.calibrationd
+root     1593805  0.6  0.0      0     0 ?        I<   09:32   0:05 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:16.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         627        2335         193         696        2801
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:46:00 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  85:58 ./_modeld
+root         862 22.3  6.0 830824 225056 pts/0   S<Ll+ 03:44  80:57 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  39:37 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  32:15 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:05 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:45 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:57 ./boardd
+root         257  0.8  1.0 102656 38356 ?        Ss   03:44   3:02 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:45 selfdrive.locationd.calibrationd
+root     1593805  0.6  0.0      0     0 ?        I<   09:32   0:05 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:16.8%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         626        2335         193         698        2803
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:47:01 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   D<Ll+ 03:44  86:13 ./_modeld
+root         862 22.3  6.0 833824 227688 pts/0   R<Ll+ 03:44  81:11 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  39:44 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  32:21 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:07 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:46 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:58 ./boardd
+root         257  0.8  1.1 110848 41380 ?        Ss   03:44   3:03 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:46 selfdrive.locationd.calibrationd
+root     1593805  0.5  0.0      0     0 ?        I<   09:32   0:05 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:18.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         628        2332         193         699        2801
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:48:01 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  86:28 ./_modeld
+root         862 22.3  6.0 830824 225056 pts/0   S<Ll+ 03:44  81:26 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  39:51 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  32:27 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:09 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:47 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:59 ./boardd
+root         257  0.8  0.2  73916  9420 ?        Ss   03:44   3:04 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:46 selfdrive.locationd.calibrationd
+root     1593805  0.5  0.0      0     0 ?        I<   09:32   0:05 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:16.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         626        2352         193         680        2802
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:49:02 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  86:43 ./_modeld
+root         862 22.3  6.0 830824 225056 pts/0   S<Ll+ 03:44  81:41 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  39:57 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  32:33 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:11 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:48 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   3:59 ./boardd
+root         257  0.8  0.2  73916 10588 ?        Ss   03:44   3:04 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:46 selfdrive.locationd.calibrationd
+root     1593805  0.5  0.0      0     0 ?        I<   09:32   0:05 [kworker/u17:1-kbase_pm_poweroff_wait]%
+cpu内存使用率:17.4%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         628        2349         193         681        2800
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:50:02 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   R<Ll+ 03:44  86:58 ./_modeld
+root         862 22.3  6.0 830824 225320 pts/0   S<Ll+ 03:44  81:55 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  40:04 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  32:39 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:12 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:49 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:00 ./boardd
+root         257  0.8  0.3  73916 11580 ?        Ss   03:44   3:05 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:47 selfdrive.locationd.calibrationd
+root     1670541  0.5  0.0      0     0 ?        I<   09:50   0:00 [kworker/u17:2-csf_scheduler_wq]%
+cpu内存使用率:16.4%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         628        2348         193         682        2800
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:51:03 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  87:13 ./_modeld
+root         862 22.3  6.0 830824 225320 pts/0   S<Ll+ 03:44  82:10 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  40:11 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  32:45 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:14 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:50 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:01 ./boardd
+root         257  0.8  0.3  73916 12628 ?        Ss   03:44   3:06 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:48 selfdrive.locationd.calibrationd
+root     1670541  0.6  0.0      0     0 ?        I<   09:50   0:00 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:16.4%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         627        2348         193         684        2801
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:52:03 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   D<Ll+ 03:44  87:28 ./_modeld
+root         862 22.3  6.0 830824 225320 pts/0   S<Ll+ 03:44  82:24 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    RLl+ 03:44  40:17 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  32:50 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:15 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:51 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:01 ./boardd
+root         257  0.8  0.3  73916 13592 ?        Ss   03:44   3:06 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:48 selfdrive.locationd.calibrationd
+root     1670541  0.6  0.0      0     0 ?        I<   09:50   0:01 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:15.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         628        2346         193         685        2801
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:53:04 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  87:43 ./_modeld
+root         862 22.3  6.0 830824 225320 pts/0   S<Ll+ 03:44  82:39 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  40:24 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  32:56 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:16 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:52 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:02 ./boardd
+root         257  0.8  0.3  73916 14656 ?        Ss   03:44   3:07 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:48 selfdrive.locationd.calibrationd
+root     1670541  0.6  0.0      0     0 ?        I<   09:50   0:01 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:13.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         627        2346         193         686        2802
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:54:05 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  87:58 ./_modeld
+root         862 22.3  6.0 830824 225320 pts/0   S<Ll+ 03:44  82:54 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  40:31 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  33:02 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:18 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:53 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:03 ./boardd
+root         257  0.8  0.4  73916 15724 ?        Ss   03:44   3:07 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:49 selfdrive.locationd.calibrationd
+root     1670541  0.7  0.0      0     0 ?        I<   09:50   0:02 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:17.5%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         626        2345         193         687        2803
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:55:05 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  88:13 ./_modeld
+root         862 22.3  6.0 830824 225320 pts/0   S<Ll+ 03:44  83:08 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  40:37 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  33:08 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:19 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:54 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:04 ./boardd
+root         257  0.8  0.5  82108 19184 ?        Ss   03:44   3:08 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:50 selfdrive.locationd.calibrationd
+root     1670541  0.7  0.0      0     0 ?        I<   09:50   0:02 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:16.7%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         626        2344         193         689        2803
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:56:06 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   D<Ll+ 03:44  88:28 ./_modeld
+root         862 22.3  6.0 833824 227952 pts/0   S<Ll+ 03:44  83:22 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  40:44 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  33:14 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:21 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:54 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:04 ./boardd
+root         257  0.8  0.5  82108 20624 ?        Ss   03:44   3:08 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:50 selfdrive.locationd.calibrationd
+root     1670541  0.6  0.0      0     0 ?        I<   09:50   0:02 [kworker/u17:2-csf_scheduler_wq]%
+cpu内存使用率:16.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         629        2340         193         690        2800
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:57:06 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  88:43 ./_modeld
+root         862 22.4  6.0 830824 225584 pts/0   S<Ll+ 03:44  83:38 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  40:51 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  33:20 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:22 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:55 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:05 ./boardd
+root         257  0.8  0.5  82108 21784 ?        Ss   03:44   3:09 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:51 selfdrive.locationd.calibrationd
+root     1670541  0.5  0.0      0     0 ?        I<   09:50   0:02 [kworker/u17:2-csf_scheduler_wq]%
+cpu内存使用率:16.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         627        2340         193         691        2801
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:58:07 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   D<Ll+ 03:44  88:58 ./_modeld
+root         862 22.4  6.0 833824 228216 pts/0   S<Ll+ 03:44  83:52 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  40:57 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  33:26 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:24 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:55 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:06 ./boardd
+root         257  0.8  0.6  90300 25496 ?        Ss   03:44   3:10 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:51 selfdrive.locationd.calibrationd
+root     1670541  0.4  0.0      0     0 ?        I<   09:50   0:02 [kworker/u17:2-csf_scheduler_wq]%
+cpu内存使用率:15.9%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         627        2339         193         693        2802
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:59:07 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   D<Ll+ 03:44  89:13 ./_modeld
+root         862 22.4  6.0 833824 228216 pts/0   S<Ll+ 03:44  84:07 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  41:04 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  33:32 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:25 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:56 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:06 ./boardd
+root         257  0.8  0.7  90300 27472 ?        Ss   03:44   3:10 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:52 selfdrive.locationd.calibrationd
+root     1670541  0.4  0.0      0     0 ?        I<   09:50   0:02 [kworker/u17:2-csf_scheduler_wq]%
+cpu内存使用率:13%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         629        2336         193         694        2799
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:00:08 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   D<Ll+ 03:44  89:28 ./_modeld
+root         862 22.4  6.0 833824 228216 pts/0   S<Ll+ 03:44  84:21 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  41:11 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  33:38 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:26 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:57 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:07 ./boardd
+root         257  0.8  0.7  90300 28568 ?        Ss   03:44   3:11 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:52 selfdrive.locationd.calibrationd
+root     1717432  0.5  0.0      0     0 ?        I<   10:00   0:00 [kworker/u17:1-csf_scheduler_wq]%
+cpu内存使用率:17.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         629        2335         193         695        2799
+交换：          0           0           0%
+温度: 90333%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:01:09 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  89:43 ./_modeld
+root         862 22.4  6.0 836824 228216 pts/0   R<Ll+ 03:44  84:36 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  41:17 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  33:43 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:28 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:58 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:08 ./boardd
+root         257  0.8  0.7  90300 29500 ?        Ss   03:44   3:11 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:52 selfdrive.locationd.calibrationd
+root     1670541  0.4  0.0      0     0 ?        I<   09:50   0:03 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:15.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         627        2336         193         695        2801
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:02:09 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   R<Ll+ 03:44  89:58 ./_modeld
+root         862 22.4  6.0 830824 225584 pts/0   S<Ll+ 03:44  84:50 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  41:24 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  33:49 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:29 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   4:59 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:09 ./boardd
+root         257  0.8  0.8  98492 33424 ?        Ss   03:44   3:12 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:53 selfdrive.locationd.calibrationd
+root     1670541  0.4  0.0      0     0 ?        I<   09:50   0:03 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:13.1%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         627        2335         193         696        2802
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:03:10 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  90:13 ./_modeld
+root         862 22.4  6.0 833824 228480 pts/0   S<Ll+ 03:44  85:05 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  41:31 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  33:55 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:32 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   5:01 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:09 ./boardd
+root         257  0.8  0.9  98492 35084 ?        Ss   03:44   3:12 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Rl+  03:44   2:53 selfdrive.locationd.calibrationd
+root     1670541  0.4  0.0      0     0 ?        I<   09:50   0:04 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:16%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         627        2334         193         697        2801
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:04:10 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   R<Ll+ 03:44  90:28 ./_modeld
+root         862 22.4  6.0 830824 225848 pts/0   S<Ll+ 03:44  85:20 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  41:37 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  34:01 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:33 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   5:02 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:10 ./boardd
+root         257  0.8  0.9  98492 35952 ?        Ss   03:44   3:13 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:54 selfdrive.locationd.calibrationd
+root     1670541  0.5  0.0      0     0 ?        I<   09:50   0:04 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:15.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         627        2333         193         698        2801
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:05:11 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   R<Ll+ 03:44  90:43 ./_modeld
+root         862 22.4  6.0 833824 228480 pts/0   R<Ll+ 03:44  85:35 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  41:44 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  34:07 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:35 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   5:02 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:11 ./boardd
+root         257  0.8  0.9  98492 37240 ?        Ss   03:44   3:14 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:54 selfdrive.locationd.calibrationd
+root     1670541  0.5  0.0      0     0 ?        I<   09:50   0:05 [kworker/u17:2-csf_scheduler_wq]%
+cpu内存使用率:15.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         627        2331         193         700        2801
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:06:11 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   R<Ll+ 03:44  90:58 ./_modeld
+root         862 22.4  6.0 833824 228480 pts/0   S<Ll+ 03:44  85:49 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  41:51 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  34:13 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:36 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   5:03 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:12 ./boardd
+root         257  0.8  1.1 106684 41340 ?        Ss   03:44   3:14 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:55 selfdrive.locationd.calibrationd
+root     1670541  0.5  0.0      0     0 ?        I<   09:50   0:05 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:18.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         628        2330         193         701        2800
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:07:12 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   S<Ll+ 03:44  91:13 ./_modeld
+root         862 22.4  6.0 830824 225848 pts/0   S<Ll+ 03:44  86:04 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  41:57 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  34:19 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:37 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   5:03 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:12 ./boardd
+root         257  0.8  0.2  73916  9808 ?        Ss   03:44   3:15 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:55 selfdrive.locationd.calibrationd
+root     1670541  0.4  0.0      0     0 ?        I<   09:50   0:05 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:14.3%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         630        2328         193         701        2798
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:08:12 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   D<Ll+ 03:44  91:28 ./_modeld
+root         862 22.4  6.0 833824 228480 pts/0   S<Ll+ 03:44  86:19 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  42:04 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  34:25 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:39 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   5:04 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:13 ./boardd
+root         257  0.8  0.2  73916 10896 ?        Ss   03:44   3:15 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:56 selfdrive.locationd.calibrationd
+root     1670541  0.4  0.0      0     0 ?        I<   09:50   0:05 [kworker/u17:2-kbase_pm_poweroff_wait]%
+cpu内存使用率:15.6%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         628        2328         193         702        2800
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:09:13 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.7  7.4 916000 279032 pts/0   D<Ll+ 03:44  91:43 ./_modeld
+root         862 22.4  6.1 833824 228744 pts/0   R<Ll+ 03:44  86:34 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  42:11 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  34:30 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:41 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   5:05 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:14 ./boardd
+root         257  0.8  0.3  73916 11980 ?        Ss   03:44   3:16 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:57 selfdrive.locationd.calibrationd
+root     1670541  0.4  0.0      0     0 ?        I<   09:50   0:05 [kworker/u17:2-csf_scheduler_wq]%
+cpu内存使用率:17%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         628        2327         193         703        2800
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:10:14 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.8  7.4 916000 279032 pts/0   R<Ll+ 03:44  91:58 ./_modeld
+root         862 22.4  6.0 830824 226112 pts/0   S<Ll+ 03:44  86:48 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  42:17 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  34:36 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:42 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   5:06 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:14 ./boardd
+root         257  0.8  0.3  73916 12928 ?        Ss   03:44   3:17 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:57 selfdrive.locationd.calibrationd
+root     1670541  0.4  0.0      0     0 ?        I<   09:50   0:05 [kworker/u17:2-csf_scheduler_wq]%
+cpu内存使用率:15%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         628        2325         193         705        2800
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:11:14 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.8  7.4 916000 279032 pts/0   S<Ll+ 03:44  92:13 ./_modeld
+root         862 22.4  6.0 830824 226112 pts/0   S<Ll+ 03:44  87:02 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  42:24 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  34:42 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:44 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   5:07 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:15 ./boardd
+root         257  0.8  0.3  73916 13996 ?        Ss   03:44   3:17 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:58 selfdrive.locationd.calibrationd
+root     1670541  0.4  0.0      0     0 ?        I<   09:50   0:05 [kworker/u17:2-csf_scheduler_wq]%
+cpu内存使用率:16.4%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         630        2323         193         705        2799
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:12:15 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.8  7.4 916000 279032 pts/0   R<Ll+ 03:44  92:28 ./_modeld
+root         862 22.4  6.1 833824 228744 pts/0   S<Ll+ 03:44  87:17 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:44  42:31 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:44  34:48 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:44   8:45 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:44   5:08 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413484  5936 pts/0    Sl+  03:44   4:16 ./boardd
+root         257  0.8  0.4  73916 15068 ?        Ss   03:44   3:18 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:44   2:59 selfdrive.locationd.calibrationd
+root     1769336  0.4  0.0      0     0 ?        I    10:12   0:00 [kworker/u18:0-events_freezable_power_]%
+cpu内存使用率:12.2%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         630        2322         193         707        2799
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 10:13:15 UTC%
+CPU使用最多的10个线程:\n USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         864 23.8  7.4 916000 279032 pts/0   S<Ll+ 03:01  92:43 ./_modeld
+root         862 22.4  6.0 830824 226112 pts/0   S<Ll+ 03:01  87:32 ./detectd
+root         866 10.9  1.7 481528 65684 pts/0    SLl+ 03:01  42:38 ./trackd
+root         861  8.9 10.2 1218628 384464 pts/0  SLl+ 03:01  34:54 ./camerad
+root         432  2.2  0.4 1048188 17692 ?       Sl   03:00   8:47 rkisp_demo --device /dev/video25 --width 1920 --height 1080 --rkaiq --iqpath=/etc/iqfiles/
+root         374  1.3  0.4 256036 16496 ?        Ssl  03:00   5:08 /usr/sbin/NetworkManager --no-daemon
+root         868  1.0  0.1 413520  5940 pts/0    Sl+  03:01   4:16 ./boardd
+root         257  0.8  0.2  73916  9708 ?        Ss   03:00   3:18 /lib/systemd/systemd-journald
+root         869  0.7  1.0 480868 38716 pts/0    Sl+  03:01   2:59 selfdrive.locationd.calibrationd
+root     1769336  0.4  0.0      0     0 ?        I    09:28   0:00 [kworker/u18:0-events_freezable_power_]%
+cpu内存使用率:20%
+内存使用率: \n                total        used        free      shared  buff/cache   available
+内存：       3659         629        2342         193         688        2800
+交换：          0           0           0%
+温度: 91222%
+npu主频: 800000000%
+cpu6主频: 1608000%
+时间: 2023年 09月 21日 星期四 09:30:30 UTC%
