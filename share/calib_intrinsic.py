@@ -30,7 +30,7 @@ def run_calib(args):
                 cv.drawChessboardCorners(
                     img, (args.num_y, args.num_x), corners2, ret)
                 cv.imshow('calib_intrinsic', img)
-                #cv.waitKey(500)
+                cv.waitKey(500)
     if args.verbose:
         cv.destroyAllWindows()
 

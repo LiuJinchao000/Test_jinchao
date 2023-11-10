@@ -36,7 +36,6 @@ def extract_info(filename,Temps):
                     temp1=float(valuee[1][0:5])/1000
                     temp.append(temp1)
             Temps.append(temp)
-    print(len(Temps))
 
 def bar_with_date(Temps,filename):
     plt.rcParams['font.sans-serif'] = ['SimHei'] # 显示中文
@@ -62,6 +61,7 @@ def bar_with_date(Temps,filename):
     plt.title('温度稳态结果')
     #plt.legend()
     plt.show()
+
 
 def process_fig(Temps,filename):
     min_lenvalue=find_min_len_of_sec_dementia(Temps)
