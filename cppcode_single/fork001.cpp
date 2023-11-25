@@ -5,14 +5,14 @@
 #include <class.h>
 
 
-
-int a=10;
-
-Animal xiaoliu {"xiaoliu",78};
+int ref(Animal & a)
+{
+    a.show_age();
+}
 
 int main()
 {
-
+/* 
 
 std::cout<<"***************************************************"<<std::endl;
 
@@ -30,7 +30,11 @@ for(i=1;i<NUM;i++)
         older=& older->compare_age(xiaodongwu[i]);
 }
 
-older->show_age();
+older->show_age(); */
+Animal jinchao("jinchao");
+ref(jinchao);
+
+
 
 }
 
