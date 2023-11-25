@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../class.h
+string
+-
+
+/home/liu/Documents/Test_jinchao/cppcode_single/fork001.cpp
+stdio.h
+-
+unistd.h
+-
+iostream
+-
+string
+-
+class.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/demo_all.dir/class.cpp.o CMakeFiles/demo_all.dir/fork001.cpp.o  -o demo_all 
