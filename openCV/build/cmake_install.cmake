@@ -1,4 +1,4 @@
-# Install script for directory: /home/liu/Documents/Test_jinchao/cppcode
+# Install script for directory: /home/liu/Documents/我的项目/Test_jinchao/openCV
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/liu/Documents/Test_jinchao/cppcode/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/liu/Documents/我的项目/Test_jinchao/openCV/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

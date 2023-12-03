@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/liu/Documents/Test_jinchao/cppcode/fork001.cpp" "/home/liu/Documents/Test_jinchao/cppcode/build/CMakeFiles/demo_all.dir/fork001.cpp.o"
+  "/home/liu/Documents/我的项目/Test_jinchao/openCV/main.cpp" "/home/liu/Documents/我的项目/Test_jinchao/openCV/build/CMakeFiles/hello.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/usr/local/include/opencv4"
+  "/usr/include/opencv4"
   )
 
 # Targets to which this target links.

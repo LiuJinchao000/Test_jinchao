@@ -1,3 +1,3 @@
-/home/liu/Documents/Test_jinchao/cppcode/build/CMakeFiles/rebuild_cache.dir
-/home/liu/Documents/Test_jinchao/cppcode/build/CMakeFiles/edit_cache.dir
-/home/liu/Documents/Test_jinchao/cppcode/build/CMakeFiles/demo_all.dir
+/home/liu/Documents/我的项目/Test_jinchao/openCV/build/CMakeFiles/rebuild_cache.dir
+/home/liu/Documents/我的项目/Test_jinchao/openCV/build/CMakeFiles/edit_cache.dir
+/home/liu/Documents/我的项目/Test_jinchao/openCV/build/CMakeFiles/hello.dir

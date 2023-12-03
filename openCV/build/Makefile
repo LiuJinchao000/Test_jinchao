@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/liu/Documents/Test_jinchao/cppcode
+CMAKE_SOURCE_DIR = /home/liu/Documents/我的项目/Test_jinchao/openCV
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/liu/Documents/Test_jinchao/cppcode/build
+CMAKE_BINARY_DIR = /home/liu/Documents/我的项目/Test_jinchao/openCV/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -69,8 +69,8 @@ rebuild_cache/fast: rebuild_cache
 
 # Special rule for the target edit_cache
 edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake cache editor..."
+	/usr/bin/cmake-gui -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/Documents/Test_jinchao/cppcode/build/CMakeFiles /home/liu/Documents/Test_jinchao/cppcode/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/Documents/我的项目/Test_jinchao/openCV/build/CMakeFiles /home/liu/Documents/我的项目/Test_jinchao/openCV/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/Documents/Test_jinchao/cppcode/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/Documents/我的项目/Test_jinchao/openCV/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,44 +111,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named demo_all
+# Target rules for targets named hello
 
 # Build rule for target.
-demo_all: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 demo_all
-.PHONY : demo_all
+hello: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 hello
+.PHONY : hello
 
 # fast build rule for target.
-demo_all/fast:
-	$(MAKE) -f CMakeFiles/demo_all.dir/build.make CMakeFiles/demo_all.dir/build
-.PHONY : demo_all/fast
+hello/fast:
+	$(MAKE) -f CMakeFiles/hello.dir/build.make CMakeFiles/hello.dir/build
+.PHONY : hello/fast
 
-fork001.o: fork001.cpp.o
+main.o: main.cpp.o
 
-.PHONY : fork001.o
+.PHONY : main.o
 
 # target to build an object file
-fork001.cpp.o:
-	$(MAKE) -f CMakeFiles/demo_all.dir/build.make CMakeFiles/demo_all.dir/fork001.cpp.o
-.PHONY : fork001.cpp.o
+main.cpp.o:
+	$(MAKE) -f CMakeFiles/hello.dir/build.make CMakeFiles/hello.dir/main.cpp.o
+.PHONY : main.cpp.o
 
-fork001.i: fork001.cpp.i
+main.i: main.cpp.i
 
-.PHONY : fork001.i
+.PHONY : main.i
 
 # target to preprocess a source file
-fork001.cpp.i:
-	$(MAKE) -f CMakeFiles/demo_all.dir/build.make CMakeFiles/demo_all.dir/fork001.cpp.i
-.PHONY : fork001.cpp.i
+main.cpp.i:
+	$(MAKE) -f CMakeFiles/hello.dir/build.make CMakeFiles/hello.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-fork001.s: fork001.cpp.s
+main.s: main.cpp.s
 
-.PHONY : fork001.s
+.PHONY : main.s
 
 # target to generate assembly for a file
-fork001.cpp.s:
-	$(MAKE) -f CMakeFiles/demo_all.dir/build.make CMakeFiles/demo_all.dir/fork001.cpp.s
-.PHONY : fork001.cpp.s
+main.cpp.s:
+	$(MAKE) -f CMakeFiles/hello.dir/build.make CMakeFiles/hello.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
@@ -158,10 +158,10 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... demo_all"
-	@echo "... fork001.o"
-	@echo "... fork001.i"
-	@echo "... fork001.s"
+	@echo "... hello"
+	@echo "... main.o"
+	@echo "... main.i"
+	@echo "... main.s"
 .PHONY : help
 
 
