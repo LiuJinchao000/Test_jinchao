@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/demo_all.dir/class.cpp.o"
   "CMakeFiles/demo_all.dir/fork001.cpp.o"
   "demo_all"
   "demo_all.pdb"

@@ -1,33 +1,12 @@
-#include <cereal/archives/json.hpp>
 #include <iostream>
-
-struct Minimal
-{
-  std::string myData;
-
-  template <class Archive>
-  std::string save_minimal( Archive const & ) const
-  { return myData; }
-
-  template <class Archive>
-  void load_minimal( Archive const &, std::string const & value )
-  { myData = value; }
-};
-
-struct Normal
-{
-  std::string myData;
-
-  template <class Archive>
-  void serialize( Archive & ar )
-  { ar( myData ); }
-};
-
+using namespace std;
+ 
 int main()
 {
-  Minimal m = {"minimal"};
-  Normal  n = {"normal"};
-
-  cereal::JSONOutputArchive ar( std::cout );
-  ar( CEREAL_NVP(m), CEREAL_NVP(n) );
+       for (int i = 0; i < 5; i++)
+              cout << (rand()%2)<<" ";         //生成[0,1]范围内的随机数
+       cout << endl;
+       for (int i = 0; i < 20; i++)
+              cout << (rand() % 5 + 3) << " "; //生成[3,7]范围内的随机数
+       cout << endl;
 }

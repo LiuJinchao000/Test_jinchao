@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/liu/Documents/Test_jinchao/cereal_Learn
+CMAKE_SOURCE_DIR = /home/liu/Documents/我的项目/Test_jinchao/cereal_Learn
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/liu/Documents/Test_jinchao/cereal_Learn/build
+CMAKE_BINARY_DIR = /home/liu/Documents/我的项目/Test_jinchao/cereal_Learn/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -69,8 +69,8 @@ rebuild_cache/fast: rebuild_cache
 
 # Special rule for the target edit_cache
 edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake cache editor..."
+	/usr/bin/cmake-gui -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/Documents/Test_jinchao/cereal_Learn/build/CMakeFiles /home/liu/Documents/Test_jinchao/cereal_Learn/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/Documents/我的项目/Test_jinchao/cereal_Learn/build/CMakeFiles /home/liu/Documents/我的项目/Test_jinchao/cereal_Learn/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/Documents/Test_jinchao/cereal_Learn/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/Documents/我的项目/Test_jinchao/cereal_Learn/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,33 +123,6 @@ demo_all/fast:
 	$(MAKE) -f CMakeFiles/demo_all.dir/build.make CMakeFiles/demo_all.dir/build
 .PHONY : demo_all/fast
 
-class.o: class.cpp.o
-
-.PHONY : class.o
-
-# target to build an object file
-class.cpp.o:
-	$(MAKE) -f CMakeFiles/demo_all.dir/build.make CMakeFiles/demo_all.dir/class.cpp.o
-.PHONY : class.cpp.o
-
-class.i: class.cpp.i
-
-.PHONY : class.i
-
-# target to preprocess a source file
-class.cpp.i:
-	$(MAKE) -f CMakeFiles/demo_all.dir/build.make CMakeFiles/demo_all.dir/class.cpp.i
-.PHONY : class.cpp.i
-
-class.s: class.cpp.s
-
-.PHONY : class.s
-
-# target to generate assembly for a file
-class.cpp.s:
-	$(MAKE) -f CMakeFiles/demo_all.dir/build.make CMakeFiles/demo_all.dir/class.cpp.s
-.PHONY : class.cpp.s
-
 fork001.o: fork001.cpp.o
 
 .PHONY : fork001.o
@@ -186,9 +159,6 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... demo_all"
-	@echo "... class.o"
-	@echo "... class.i"
-	@echo "... class.s"
 	@echo "... fork001.o"
 	@echo "... fork001.i"
 	@echo "... fork001.s"

@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/liu/Documents/Test_jinchao/cereal_Learn/class.cpp" "/home/liu/Documents/Test_jinchao/cereal_Learn/build/CMakeFiles/demo_all.dir/class.cpp.o"
-  "/home/liu/Documents/Test_jinchao/cereal_Learn/fork001.cpp" "/home/liu/Documents/Test_jinchao/cereal_Learn/build/CMakeFiles/demo_all.dir/fork001.cpp.o"
+  "/home/liu/Documents/我的项目/Test_jinchao/cereal_Learn/fork001.cpp" "/home/liu/Documents/我的项目/Test_jinchao/cereal_Learn/build/CMakeFiles/demo_all.dir/fork001.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
